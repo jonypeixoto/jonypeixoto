@@ -143,6 +143,14 @@ _______________________________________________________________
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/calendly.svg" alt="Calendly"/></code>
+<code><img height="32" src="https://logmyhours.com/images/integrations/rescuetime.svg" alt="Rescue Time"/></code>
+
+**Researches/Internet Searchers/Browsers**
+
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/duckduckgo-3-569238.png" alt="Duck Duck Go"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
 
 **Operational Systems**
 
