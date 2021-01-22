@@ -104,6 +104,10 @@ _______________________________________________________________
 
 **Data, Domain And Hosting**
 
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Google_Drive.svg/1200px-Logo_of_Google_Drive.svg.png" alt="Drive Google"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
+<code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
+<code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/web-hosting-96-1134923.png" alt="Domain And Hosting"/></code>
 <code><img height="32" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18181230061536126577-64.png" alt="AWS"/></code>
 <code><img height="32" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"/></code>
@@ -136,6 +140,11 @@ _______________________________________________________________
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="Intellij IDEA"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="PyCharm"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
 
 **Business Tools**
