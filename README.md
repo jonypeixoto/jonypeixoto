@@ -153,6 +153,8 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/calendly.svg" alt="Calendly"/></code>
 <code><img height="32" src="https://logmyhours.com/images/integrations/rescuetime.svg" alt="Rescue Time"/></code>
+<code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
+
 
 **Researches/Internet Searchers/Browsers**
 
