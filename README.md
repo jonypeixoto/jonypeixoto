@@ -157,7 +157,7 @@ _______________________________________________________________
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
 
-**Researches/Internet Searchers/Browsers**
+**Internet Searchers/Browsers**
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
