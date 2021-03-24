@@ -124,9 +124,10 @@ _______________________________________________________________
 
 **Utilities/Productivity**
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1200px-Adobe_Photoshop_Mobile_icon.svg.png" alt="Adobe Photoshop"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop"/></code>
 <code><img height="32" src="https://digitalspicky.com/wp-content/uploads/2020/11/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Adobe Premiere"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1051px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lighroom"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
