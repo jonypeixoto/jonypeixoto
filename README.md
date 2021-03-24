@@ -152,7 +152,7 @@ _______________________________________________________________
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/calendly.svg" alt="Calendly"/></code>
-<code><img height="32" src="https://logmyhours.com/images/integrations/rescuetime.svg" alt="Rescue Time"/></code>
+<code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
 
