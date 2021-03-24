@@ -96,7 +96,7 @@ _______________________________________________________________
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/1024px-Icon-Mac.svg.png" alt="Apple"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png" alt="Android"/></code>
 <code><img height="32" src="https://miro.medium.com/max/500/1*ZmoALpPUfjbakRJ_-8vmCw.png" alt="Web RTC"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electronjs"/></code>
@@ -141,7 +141,7 @@ _______________________________________________________________
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="Intellij IDEA"/></code>
+<code><img height="32" src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2" alt="Intellij IDEA"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="PyCharm"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
