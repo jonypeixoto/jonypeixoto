@@ -73,6 +73,14 @@ _______________________________________________________________
   <code><img alt="My pinterest" width="28" src="https://www.svgrepo.com/show/134474/pinterest.svg" /></code>
 </a> 
 
+<a href="https://codepen.io/jonypeixoto">
+  <code><img alt="My CodePen" width="28" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" /></code>
+</a>
+
+<a href="https://stackexchange.com/users/19546309/jony-peixoto">
+  <code><img alt="My StackOverFlow" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /></code>
+</a>
+
 <br/><br/>
 _______________________________________________________________
 
