@@ -34,43 +34,51 @@ _______________________________________________________________
 ### 📱 Connect With Me! 
 
 <a href="https://www.youtube.com/jonypeixotoyoutuber">
-  <code><img alt="My youtube" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/1375547291552562366-64.png" /></code>
+  <code><img alt="My YouTube" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/1375547291552562366-64.png" /></code>
+</a>
+
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="My Spotify" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" /></code>
+</a>
+
+<a href="https://www.t.me/cybertimeup">
+  <code><img alt="My Telegram" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" /></code>
 </a>
 
 <a href="https://www.linkedin.com/in/jonathanpeixoto">
-  <code><img alt="My linkedin" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></code>
+  <code><img alt="My LinkedIn" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></code>
 </a>
 
 <a href="https://www.medium.com/jonypeixoto">
-  <code><img alt="My medium" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/19325663451556105326-64.png" /></code>
+  <code><img alt="My Medium" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/19325663451556105326-64.png" /></code>
 </a> 
 
 <a href="https://www.instagram.com/jonypeixoto">
-  <code><img alt="My instagram" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" /></code>
+  <code><img alt="My Instagram" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" /></code>
 </a> 
 
 <a href="https://www.tiktok.com/@jonypeixoto">
-  <code><img alt="My tiktok" width="28" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" /></code>
+  <code><img alt="My Tiktok" width="28" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" /></code>
 </a> 
 
 <a href="https://g.page/cybertimeup?gm">
-  <code><img alt="My google meu negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
+  <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
 </a> 
 
 <a href="mailto:contact@cybertimeup.com">
-  <code><img alt="My e-mail" width="32" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" /></code>
+  <code><img alt="My E-mail" width="32" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" /></code>
 </a>
 
 <a href="https://www.fb.com/jonypeixotooficial">
-  <code><img alt="My facebook" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/9964794321561032683-64.png" /></code>
+  <code><img alt="My Facebook" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/9964794321561032683-64.png" /></code>
 </a> 
 
 <a href="https://www.twitter.com/peixotojony">
-  <code><img alt="My twitter" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></code>
+  <code><img alt="My Twitter" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></code>
 </a> 
 
 <a href="https://www.pinterest.com/jonypeixoto">
-  <code><img alt="My pinterest" width="28" src="https://www.svgrepo.com/show/134474/pinterest.svg" /></code>
+  <code><img alt="My Pinterest" width="28" src="https://www.svgrepo.com/show/134474/pinterest.svg" /></code>
 </a> 
 
 <a href="https://codepen.io/jonypeixoto">
@@ -79,6 +87,10 @@ _______________________________________________________________
 
 <a href="https://stackexchange.com/users/19546309/jony-peixoto">
   <code><img alt="My StackOverFlow" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /></code>
+</a>
+
+<a href="https://behance.net/cybertimeup">
+  <code><img alt="My BeHance" width="28" src="https://image.flaticon.com/icons/png/512/48/48975.png" /></code>
 </a>
 
 <br/><br/>
