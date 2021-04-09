@@ -74,7 +74,7 @@ _______________________________________________________________
 </a> 
 
 <a href="https://codepen.io/jonypeixoto">
-  <code><img alt="My CodePen" width="28" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" /></code>
+  <code><img alt="My CodePen" width="28" src="https://orioni.co/nmedia/png/codepen-5982.png" /></code>
 </a>
 
 <a href="https://stackexchange.com/users/19546309/jony-peixoto">
