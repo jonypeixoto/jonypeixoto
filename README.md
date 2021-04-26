@@ -124,7 +124,7 @@ _______________________________________________________________
 
 **Data, Domain And Hosting**
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Google_Drive.svg/1200px-Logo_of_Google_Drive.svg.png" alt="Drive Google"/></code>
+<code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 <code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
 <code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
