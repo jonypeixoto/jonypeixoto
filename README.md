@@ -33,7 +33,7 @@ _______________________________________________________________
 
 ### 📱 Connect With Me! 
 
-<a href="https://www.youtube.com/jonypeixotoyoutuber">
+<a href="https://www.youtube.com/brabodaweb">
   <code><img alt="My YouTube" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/1375547291552562366-64.png" /></code>
 </a>
 
@@ -57,7 +57,7 @@ _______________________________________________________________
   <code><img alt="My Instagram" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" /></code>
 </a> 
 
-<a href="https://www.tiktok.com/@superinsights">
+<a href="https://www.tiktok.com/@brabodaweb">
   <code><img alt="My Tiktok" width="28" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" /></code>
 </a> 
 
