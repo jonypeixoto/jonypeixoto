@@ -164,7 +164,7 @@ _______________________________________________________________
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
 <code><img height="32" src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2" alt="Intellij IDEA"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="PyCharm"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png" alt="PyCharm"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
 
