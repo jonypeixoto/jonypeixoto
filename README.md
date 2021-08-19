@@ -20,7 +20,7 @@ ____________________________________
 
 ### Talking About Personal Stuffs
 
- 🚀 I'm Entrepreneur At CybertimeUP(Founder/CEO);
+ 🚀 I'm Entrepreneur At CybertimeUP(Founder/CEO/CTO);
 
  ❤️ I Love To Help People On Digital Performance :wink:;
 
