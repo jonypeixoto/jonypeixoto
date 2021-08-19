@@ -33,7 +33,7 @@ _______________________________________________________________
 
 ### 📱 Connect With Me! 
 
-<a href="https://www.youtube.com/brabodaweb">
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/1375547291552562366-64.png" /></code>
 </a>
 
