@@ -4,8 +4,8 @@
 
 ### Welcome To My 🌍 Jony World!
 <p>
-  And I'm Jony! Motion Programmer And Software Engineer From 
-  <img width="17" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  And I'm Jony! Motion Programmer And Computing and Software Engineer From 
+  <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil. </b><br /><br />
   Yeahhhh, I'm Brazilian Too!
 </p>
@@ -145,7 +145,7 @@ _______________________________________________________________
 **Utilities/Productivity**
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop"/></code>
-<code><img height="32" src="https://digitalspicky.com/wp-content/uploads/2020/11/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Adobe Premiere"/></code>
+<code><img height="32" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1051px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lighroom"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
