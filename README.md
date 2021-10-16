@@ -34,7 +34,7 @@ _______________________________________________________________
 ### 📱 Connect With Me! 
 
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
-  <code><img alt="My YouTube" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/1375547291552562366-64.png" /></code>
+  <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
 </a>
 
 <a href="https://www.jonypeixoto.com">
@@ -57,7 +57,7 @@ _______________________________________________________________
   <code><img alt="My Instagram" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" /></code>
 </a> 
 
-<a href="https://www.tiktok.com/@brabodaweb">
+<a href="https://www.tiktok.com/@superinsights">
   <code><img alt="My Tiktok" width="28" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" /></code>
 </a> 
 
@@ -90,7 +90,7 @@ _______________________________________________________________
 </a>
 
 <a href="https://behance.net/cybertimeup">
-  <code><img alt="My BeHance" width="28" src="https://image.flaticon.com/icons/png/512/48/48975.png" /></code>
+  <code><img alt="My BeHance" height="30" width="120" src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"/></code>
 </a>
 
 <br/><br/>
@@ -104,6 +104,7 @@ _______________________________________________________________
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Saas"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="Less"/></code>
@@ -113,7 +114,6 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue js"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple"/></code>
@@ -144,9 +144,9 @@ _______________________________________________________________
 
 **Utilities/Productivity**
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop"/></code>
-<code><img height="32" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects"/></code>
+<code><img height="30" width="150" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Adobe Photoshop"/></code>
+<code><img height="30" width="140" src="https://aleen42.github.io/badges/src/premiere.svg" alt="Adobe Premiere"/></code>
+<code><img height="30" width="160" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="Adobe After Effects"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1051px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lighroom"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
