@@ -156,11 +156,13 @@ _______________________________________________________________
 
 **Utilities/Productivity**
 
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" alt="Adobe Premiere"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects"/></code>
 <code><img height="30" width="150" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lighroom"/></code>
 <code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
+<code><img height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
