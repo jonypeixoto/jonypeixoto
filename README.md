@@ -14,8 +14,36 @@
 
 ____________________________________
 
-<br/><br/><br/>
 
+## Coding Activity
+
+![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats" />
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/JonyPeixoto/JonyPeixoto" alt="Visitors badge" />
+   </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://badges.pufler.dev">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
+   </a>
+</p>
+
+________________________________________________________________
+
+<br/><br />
 
 
 ### Talking About Personal Stuffs
@@ -51,6 +79,10 @@ _______________________________________________________________
 
 <a href="https://www.twitch.tv/cybertimeup">
   <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
+</a>
+
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
 </a>
 
 <a href="https://www.jonypeixoto.com">
@@ -221,29 +253,7 @@ _______________________________________________________________
 <br/>
 _______________________________________________________________
 
-## Coding Activity
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/JonyPeixoto/JonyPeixoto" alt="Visitors badge" />
-   </a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://badges.pufler.dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
-   </a>
-</p>
 
 
 
