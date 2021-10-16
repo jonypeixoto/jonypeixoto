@@ -156,9 +156,9 @@ _______________________________________________________________
 
 **Utilities/Productivity**
 
-<code><img height="30" width="150" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Adobe Photoshop"/></code>
-<code><img height="30" width="140" src="https://aleen42.github.io/badges/src/premiere.svg" alt="Adobe Premiere"/></code>
-<code><img height="30" width="160" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="Adobe After Effects"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" alt="Adobe Premiere"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects"/></code>
 <code><img height="30" width="150" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lighroom"/></code>
 <code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
@@ -205,11 +205,16 @@ _______________________________________________________________
 <br/>
 _______________________________________________________________
 
-## My Latest Posts On LinkedIn
+## My Latest Posts On CybertimeUP's Blog
 <br/>
 
-- 📌 [Artigo LinkedIn: Super Humano: Aprender, Executar e Utilizar o Digital a Seu Favor](https://www.linkedin.com/pulse/super-humano-aprender-executar-e-utilizar-o-digital-seu-peixoto/)<br />
-- 📌 [Existe Analfabetismo Digital?](https://www.linkedin.com/pulse/analfabetos-digitais-em-pleno-século-21-utopia-ou-jonathan-peixoto/)
+- 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
+- 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
+- 📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
+- 📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
+- 📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
+
+
 
 <br/>
 _______________________________________________________________
