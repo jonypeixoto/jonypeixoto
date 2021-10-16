@@ -20,7 +20,7 @@ ____________________________________
 
 ### Talking About Personal Stuffs
 
- 🚀 I'm Entrepreneur At CybertimeUP, X-Code (Founder/CTO);
+ 🚀 I'm Entrepreneur At CybertimeUP (CEO), X-Code (Founder/CTO);
 
  ❤️ I Love To Help People On Digital Performance :wink:;
 
@@ -33,65 +33,77 @@ _______________________________________________________________
 
 ### 📱 Connect With Me! 
 
+<a href="https://blog.cybertimeup.com">
+  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></code>
+</a>
+
+<a href="https://www.reddit.com/user/jonypeixoto">
+  <code><img alt="My Reddit" height="30" width="110" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
+</a>
+
+<a href="https://www.fb.com/jonypeixotooficial">
+  <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
+</a> 
+
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
 </a>
 
+<a href="https://www.twitch.tv/cybertimeup">
+  <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
+</a>
+
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="My Spotify" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" /></code>
+  <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
 </a>
 
 <a href="https://www.t.me/cybertimeup">
-  <code><img alt="My Telegram" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" /></code>
+  <code><img alt="My Telegram" height="30" width="120" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></code>
 </a>
 
 <a href="https://www.linkedin.com/in/jonathanpeixoto">
-  <code><img alt="My LinkedIn" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></code>
+  <code><img alt="My LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 
 <a href="https://www.medium.com/jonypeixoto">
-  <code><img alt="My Medium" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/19325663451556105326-64.png" /></code>
+  <code><img alt="My Medium" height="30" width="120" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
 </a> 
 
 <a href="https://www.instagram.com/jonypeixoto">
-  <code><img alt="My Instagram" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/6590558241561032669-64.png" /></code>
+  <code><img alt="My Instagram" height="30" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></code>
 </a> 
 
 <a href="https://www.tiktok.com/@superinsights">
-  <code><img alt="My Tiktok" width="28" src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" /></code>
+  <code><img alt="My Tiktok" height="30" width="110" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></code>
 </a> 
+
+<a href="mailto:contact@jonypeixoto.com">
+  <code><img alt="My E-mail" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></code>
+</a>
+
+<a href="https://www.twitter.com/peixotojony">
+  <code><img alt="My Twitter" height="30" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></code>
+</a> 
+
+<a href="https://www.pinterest.com/jonypeixoto">
+  <code><img alt="My Pinterest" height="30" width="120" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></code>
+</a> 
+
+<a href="https://codepen.io/jonypeixoto">
+  <code><img alt="My CodePen" height="30" width="120" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></code>
+</a>
+
+<a href="https://stackexchange.com/users/19546309/jony-peixoto">
+  <code><img alt="My StackOverFlow" height="30" width="150" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></code>
+</a>
+
+<a href="https://behance.net/cybertimeup">
+  <code><img alt="My BeHance" height="30" width="120" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></code>
+</a>
 
 <a href="https://g.page/cybertimeup?gm">
   <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
 </a> 
-
-<a href="mailto:contact@cybertimeup.com">
-  <code><img alt="My E-mail" width="32" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" /></code>
-</a>
-
-<a href="https://www.fb.com/jonypeixotooficial">
-  <code><img alt="My Facebook" width="28" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/9964794321561032683-64.png" /></code>
-</a> 
-
-<a href="https://www.twitter.com/peixotojony">
-  <code><img alt="My Twitter" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></code>
-</a> 
-
-<a href="https://www.pinterest.com/jonypeixoto">
-  <code><img alt="My Pinterest" width="28" src="https://www.svgrepo.com/show/134474/pinterest.svg" /></code>
-</a> 
-
-<a href="https://codepen.io/jonypeixoto">
-  <code><img alt="My CodePen" width="28" src="https://orioni.co/nmedia/png/codepen-5982.png" /></code>
-</a>
-
-<a href="https://stackexchange.com/users/19546309/jony-peixoto">
-  <code><img alt="My StackOverFlow" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" /></code>
-</a>
-
-<a href="https://behance.net/cybertimeup">
-  <code><img alt="My BeHance" height="30" width="120" src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"/></code>
-</a>
 
 <br/><br/>
 _______________________________________________________________
@@ -147,8 +159,8 @@ _______________________________________________________________
 <code><img height="30" width="150" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Adobe Photoshop"/></code>
 <code><img height="30" width="140" src="https://aleen42.github.io/badges/src/premiere.svg" alt="Adobe Premiere"/></code>
 <code><img height="30" width="160" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="Adobe After Effects"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1051px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lighroom"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
+<code><img height="30" width="150" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lighroom"/></code>
+<code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
