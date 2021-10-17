@@ -183,7 +183,7 @@ _______________________________________________________________
 ### 📱 Connect With Me! 
 
 <a href="https://blog.cybertimeup.com">
-  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></code>
+  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank" /></code>
 </a>
 
 <a href="https://www.reddit.com/user/jonypeixoto">
