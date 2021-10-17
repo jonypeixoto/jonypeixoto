@@ -56,14 +56,14 @@ ____________________________________
 
 ________________________________________________________________
 
-<br/><br />
+<br/>
 
 
 ### Talking About Personal Stuffs:
 
 
   
- 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO and [X-Code](https://www.x-code.io) - Founder/CTO
+ 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO and [X-Code](https://www.x-code.io) - Founder/CTO;
 
  ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com/youtube) :wink:;
 
@@ -72,7 +72,7 @@ ________________________________________________________________
  🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
   
   
- <br /> <br />
+ <br />
   
 _______________________________________________________________
 
@@ -80,7 +80,7 @@ _______________________________________________________________
 
  <br /> <br />
 
-**Applications Web/Mobile**
+### Applications Web/Mobile:
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -106,7 +106,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Data, Domain And Hosting**
+### Data, Domain And Hosting:
 
 <code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
@@ -124,7 +124,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Responsive Design**
+### Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
@@ -132,7 +132,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Utilities/Productivity**
+### Utilities/Productivity:
 
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
@@ -152,7 +152,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**DevOps**
+### DevOps:
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
@@ -166,7 +166,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Business Tools**
+### Business Tools:
 
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
@@ -177,7 +177,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Internet Searchers/Browsers**
+### Internet Searchers/Browsers:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
@@ -187,7 +187,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-**Operational Systems**
+### Operational Systems:
 
 <code><img height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
 <code><img height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
@@ -224,23 +224,15 @@ _______________________________________________________________
 ### 🌐 Social Medias 🔝
 
 <a href="https://www.reddit.com/user/jonypeixoto">
-  <code><img alt="My Reddit" height="30" width="110" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
+  <code><img alt="My Reddit" height="30" width="100" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
 </a>
 
 <a href="https://www.fb.com/jonypeixotooficial">
   <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
 </a> 
-  
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
-  <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
-</a>
 
 <a href="https://discord.gg/bKgMnsZJ">
   <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
-</a>
-
-<a href="https://www.jonypeixoto.com">
-  <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
 </a>
 
 <a href="https://www.t.me/cybertimeup">
@@ -279,10 +271,6 @@ _______________________________________________________________
   <code><img alt="My CodePen" height="30" width="120" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></code>
 </a>
 
-<a href="https://stackexchange.com/users/19546309/jony-peixoto">
-  <code><img alt="My StackOverFlow" height="30" width="150" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></code>
-</a>
-
 <a href="https://behance.net/cybertimeup">
   <code><img alt="My BeHance" height="30" width="120" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></code>
 </a>
@@ -291,6 +279,18 @@ _______________________________________________________________
   <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
 </a> 
 
+<br/><br/>
+  
+### 🎶 Sound 🔝
+  
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
+</a>
+  
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+  <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
+</a>
+  
 <br/><br/>
 
 ## 📝 My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
@@ -301,17 +301,21 @@ _______________________________________________________________
   
 
 
-- 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
-- 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
-- 📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
-- 📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
-- 📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
+📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
+📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
+📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
+📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
+📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
 
 
 
  <br /> <br />
 
-
+ ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jonypeixoto/count.svg"/>
+ </p>
+<img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
