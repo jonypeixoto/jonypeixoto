@@ -37,7 +37,7 @@ ________________________________________________________________
 <br/><br />
 
 
-### Talking About Personal Stuffs
+### Talking About Personal Stuffs:
 
  🚀 I'm Entrepreneur At CybertimeUP (CEO), X-Code (Founder/CTO);
 
