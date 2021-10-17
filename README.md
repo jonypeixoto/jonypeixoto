@@ -194,13 +194,14 @@ _______________________________________________________________
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
 </a>
-  
+    
 <a href="https://www.twitch.tv/cybertimeup">
   <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
 </a>
   
  <br /><br /> 
 
+### 🌐 Social Medias 🔝
 
 <a href="https://www.reddit.com/user/jonypeixoto">
   <code><img alt="My Reddit" height="30" width="110" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
