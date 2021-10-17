@@ -31,7 +31,7 @@ ____________________________________
 
 
 
-## 📊 GitHub Code Activities 🔝
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🔝
 
 <p align="left">
   <a href="https://badges.pufler.dev">
@@ -76,7 +76,7 @@ ________________________________________________________________
   
 _______________________________________________________________
 
-## 🎓 My Development Stack 🔝
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🔝
 
  <br /> <br />
 
@@ -200,14 +200,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## 💬 Let's Have a Coffee?
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me! 💬
 
- <br /> 
-
-
-### 📱 Connect With Me! 
-  
- <br />
+ <br /><br />
   
 ### 🎞 Streaming 🔝
   
@@ -293,7 +288,7 @@ _______________________________________________________________
   
 <br/><br/>
 
-## 📝 My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
+## 📝My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
 </a>
   
@@ -311,7 +306,7 @@ _______________________________________________________________
 
  <br /> <br />
 
- ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views: <br>
+ ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  Total Profile Views: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jonypeixoto/count.svg"/>
  </p>
