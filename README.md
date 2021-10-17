@@ -19,7 +19,7 @@ ____________________________________
 
 
 
-## 👨‍💻 Coding Activity 🔝
+## 📊 GitHub Code Activities 🔝
 
 <p align="left">
   <a href="https://badges.pufler.dev">
@@ -32,9 +32,15 @@ ____________________________________
 
 <div align="center">
   <a href="https://github.com/jonypeixoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
 </div>
+  
+<div align="center">
+  <a href="https://github.com/jonypeixoto">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonypeixoto" alt="JonyPeixoto's github statistics plus"/>
+</div>
+
 
 ________________________________________________________________
 
@@ -273,8 +279,8 @@ _______________________________________________________________
 
 <br/><br/>
 
-## 📝 My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com">
-  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank" /></code>
+## 📝 My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
+  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
 </a>
   
 <br/>
