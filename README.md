@@ -1,3 +1,5 @@
+
+
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="70%" src="https://camo.githubusercontent.com/dda0e095fd183a82a3a0234d79b259a4310fcf031f2238cf415ee306ae6a1606/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33354d47364b6f4e43337a79416b476573302f67697068792e676966" alt="Joke" />
@@ -165,9 +167,10 @@ _______________________________________________________________
 
 **Operational Systems**
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Mac"/></code>
+<code><img height="30" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
+<code><img height="30" width="140" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
+<code><img height="30" width="150" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></code>
+<code><img height="30" width="110" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/></code>
 
 <br/>
 
@@ -196,6 +199,10 @@ _______________________________________________________________
 
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
+</a>
+  
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+  <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
 </a>
 
 <a href="https://www.twitch.tv/cybertimeup">
