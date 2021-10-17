@@ -169,9 +169,9 @@ _______________________________________________________________
 
 **Operational Systems**
 
-<code><img height="30" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
-<code><img height="30" width="140" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
-<code><img height="30" width="150" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></code>
+<code><img height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
+<code><img height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
+<code><img height="30" width="140" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></code>
 <code><img height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/></code>
 
 <br/>
