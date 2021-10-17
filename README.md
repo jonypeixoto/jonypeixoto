@@ -25,15 +25,12 @@ ____________________________________
 
 ![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats" />
-</p>
 
-<p align="center">
-  <a href="https://badges.pufler.dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
-   </a>
-</p>
+<div align="center">
+  <a href="https://github.com/jonypeixoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
+</div>
 
 ________________________________________________________________
 
@@ -202,7 +199,7 @@ _______________________________________________________________
   <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
 </a>
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://discord.gg/bKgMnsZJ">
   <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
 </a>
 
