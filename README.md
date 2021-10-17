@@ -172,7 +172,7 @@ _______________________________________________________________
 <code><img height="30" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
 <code><img height="30" width="140" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
 <code><img height="30" width="150" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></code>
-<code><img height="30" width="110" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/></code>
+<code><img height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/></code>
 
 <br/>
 
@@ -180,16 +180,25 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-### 💬 Do You Want To Have Coffee?
+## 💬 Let's Have a Coffee?
 
  <br /> 
 
 
 ### 📱 Connect With Me! 
-
-<a href="https://blog.cybertimeup.com">
-  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank" /></code>
+  
+### 🎞 Streaming 🔝
+  
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+  <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
 </a>
+  
+<a href="https://www.twitch.tv/cybertimeup">
+  <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
+</a>
+  
+ <br /><br /> 
+
 
 <a href="https://www.reddit.com/user/jonypeixoto">
   <code><img alt="My Reddit" height="30" width="110" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
@@ -198,17 +207,9 @@ _______________________________________________________________
 <a href="https://www.fb.com/jonypeixotooficial">
   <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
 </a> 
-
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
-  <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
-</a>
   
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
-</a>
-
-<a href="https://www.twitch.tv/cybertimeup">
-  <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
 </a>
 
 <a href="https://discord.gg/bKgMnsZJ">
@@ -269,8 +270,13 @@ _______________________________________________________________
 
 <br/><br/>
 
-## 📝 My Latest Posts On CybertimeUP's Blog 🔝
+## 📝 My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com">
+  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank" /></code>
+</a>
+  
 <br/>
+  
+
 
 - 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
 - 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
