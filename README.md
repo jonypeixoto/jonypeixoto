@@ -39,6 +39,8 @@ ____________________________________
    </a>
 </p>
 
+
+
 ![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -59,8 +61,9 @@ ________________________________________________________________
 <br/>
 
 
-### Talking About Personal Stuffs:
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%231D00EE&lines=Always+learning+new+things;%23CybertimeUP;Computing+Engineer;%23TogetherBesidesToTech;Chemical+Engineering+Student;%23eXtraordinaryGuys"></a>
+</p>
 
   
  🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO and [X-Code](https://www.x-code.io) - Founder/CTO;
@@ -79,8 +82,14 @@ _______________________________________________________________
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🔝
 
  <br /> <br />
+  
+<br>
 
-### Applications Web/Mobile:
+<img src="https://github.com/jonypeixoto/jonypeixoto/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Applications Web/Mobile:
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -106,7 +115,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Data, Domain And Hosting:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Data, Domain And Hosting:
 
 <code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
@@ -124,7 +133,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Responsive Design:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
@@ -132,7 +141,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Utilities/Productivity:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Utilities/Productivity:
 
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
@@ -152,7 +161,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### DevOps:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> DevOps:
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
@@ -166,7 +175,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Business Tools:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Business Tools:
 
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
@@ -177,7 +186,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Internet Searchers/Browsers:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Internet Searchers/Browsers:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
@@ -187,7 +196,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### Operational Systems:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Operational Systems:
 
 <code><img height="30" width="110" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/></code>
 <code><img height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
@@ -200,7 +209,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me! 💬
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
  <br /><br />
   
