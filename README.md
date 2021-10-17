@@ -18,10 +18,10 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 ### Welcome To My 🌍 Jony World!
 <p>
-  And I'm Jony! Motion Programmer And Computing and Software Engineer From 
+  Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil. </b><br /><br />
-  Yeahhhh, I'm Brazilian Too!
+  Yeahhhh, I'm Brazilian too!
 </p>
 
 <br/><br/><br/>
@@ -115,7 +115,7 @@ _______________________________________________________________
  <br /> <br />
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Data, Domain And Hosting:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Database, Domain And Hosting:
 
 <code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
@@ -235,36 +235,46 @@ _______________________________________________________________
 
 ### 🌐 Social Medias 🔝
 
-<a href="https://www.reddit.com/user/jonypeixoto">
-  <code><img alt="My Reddit" height="30" width="100" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
+### Digital Nomad Group
+
+<a href="https://nomadlist.com/@jonypeixoto">
+  <code><img alt="My NomadList" height="30" width="110" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></code>
 </a>
-
-<a href="https://www.fb.com/jonypeixotooficial">
-  <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
-</a> 
-
-<a href="https://discord.gg/bKgMnsZJ">
-  <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
-</a>
-
+  
+### Groups 
+  
 <a href="https://www.t.me/cybertimeup">
   <code><img alt="My Telegram" height="30" width="120" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></code>
 </a>
 
-<a href="https://www.linkedin.com/in/jonathanpeixoto">
-  <code><img alt="My LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
+<a href="https://discord.gg/bKgMnsZJ">
+  <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
 </a>
-
-<a href="https://www.medium.com/jonypeixoto">
-  <code><img alt="My Medium" height="30" width="120" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
+  
+### Other
+  
+<a href="https://www.fb.com/jonypeixotooficial">
+  <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
 </a> 
 
 <a href="https://www.instagram.com/jonypeixoto">
   <code><img alt="My Instagram" height="30" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></code>
 </a> 
-
+  
 <a href="https://www.tiktok.com/@superinsights">
   <code><img alt="My Tiktok" height="30" width="110" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></code>
+</a> 
+  
+<a href="https://www.linkedin.com/in/jonathanpeixoto">
+  <code><img alt="My LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
+</a>
+  
+<a href="https://www.reddit.com/user/jonypeixoto">
+  <code><img alt="My Reddit" height="30" width="100" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></code>
+</a>
+
+<a href="https://www.medium.com/jonypeixoto">
+  <code><img alt="My Medium" height="30" width="120" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
 </a> 
 
 <a href="mailto:contact@jonypeixoto.com">
