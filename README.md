@@ -18,7 +18,7 @@
 ____________________________________
 
 
-## Coding Activity
+## 👨‍💻 Coding Activity 🔝
 
 <p align="left">
   <a href="https://badges.pufler.dev">
@@ -55,7 +55,7 @@ ________________________________________________________________
   
 _______________________________________________________________
 
-## My Development Stack
+## 🎓 My Development Stack 🔝
 
  <br /> <br />
 
@@ -268,7 +268,7 @@ _______________________________________________________________
 
 <br/><br/>
 
-## My Latest Posts On CybertimeUP's Blog
+## 📝 My Latest Posts On CybertimeUP's Blog 🔝
 <br/>
 
 - 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
