@@ -81,11 +81,11 @@ _______________________________________________________________
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🔝
 
- <br /> <br />
+ <br />
   
 <br>
 
-<img src="https://github.com/jonypeixoto/jonypeixoto/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
@@ -211,7 +211,15 @@ _______________________________________________________________
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
- <br /><br />
+ <br />
+  
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Our site
+
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+</a>
+  
+<br /><br />
   
 ### 🎞 Streaming 🔝
   
