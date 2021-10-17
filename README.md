@@ -17,23 +17,17 @@ ____________________________________
 
 ## Coding Activity
 
-![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
+<p align="left">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/JonyPeixoto/JonyPeixoto" alt="Visitors badge" />
    </a>
 </p>
 
-<br />
+![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github stats" />
+</p>
 
 <p align="center">
   <a href="https://badges.pufler.dev">
@@ -57,7 +51,134 @@ ________________________________________________________________
  🏆 My Favorite Challenge Is CS50 (Harvard University).
  <br /> <br />
 _______________________________________________________________
+
+## My Development Stack
+
+ <br /> <br />
+
+**Applications Web/Mobile**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Saas"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="Less"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue js"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png" alt="Android"/></code>
+<code><img height="32" src="https://miro.medium.com/max/500/1*ZmoALpPUfjbakRJ_-8vmCw.png" alt="Web RTC"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electronjs"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Nextjs"/></code>
+
+ <br /> <br />
+
+
+**Data, Domain And Hosting**
+
+<code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
+<code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
+<code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/web-hosting-96-1134923.png" alt="Domain And Hosting"/></code>
+<code><img height="32" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18181230061536126577-64.png" alt="AWS"/></code>
+<code><img height="32" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="GraphQL"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png" alt="Docker"/></code>
+<code><img height="32" src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" alt="Redux"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/a830efd8c394a013f72dad6e7bf1e87f6c226503e69ce5858279b17e0521584c/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d6170616368652d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f6170616368652e7376673f73616e6974697a653d74727565" alt="Apache"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" alt="NGINX"/></code>
+
+ <br /> <br />
+
+
+**Responsive Design**
+
+<code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+
+ <br /> <br />
+
+
+**Utilities/Productivity**
+
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" alt="Adobe Premiere"/></code>
+<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects"/></code>
+<code><img height="30" width="150" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lighroom"/></code>
+<code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
+<code><img height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
+<code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" alt="Gulp"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="WordPress"/></code>
+<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
+
+ <br /> <br />
+
+
+**DevOps**
+
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
+<code><img height="32" src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2" alt="Intellij IDEA"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png" alt="PyCharm"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
+
+ <br /> <br />
+
+
+**Business Tools**
+
+<code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/calendly.svg" alt="Calendly"/></code>
+<code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
+<code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
+
+ <br /> <br />
+
+
+**Internet Searchers/Browsers**
+
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/duckduckgo-3-569238.png" alt="Duck Duck Go"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
+
+ <br /> <br />
+
+
+**Operational Systems**
+
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Mac"/></code>
+
+<br/>
+
+
+_______________________________________________________________
+
+
 ### 💬 Do You Want To Have Coffee?
+
+ <br /> 
+
 
 ### 📱 Connect With Me! 
 
@@ -138,106 +259,6 @@ _______________________________________________________________
 </a> 
 
 <br/><br/>
-_______________________________________________________________
-
-
-## My Development Stack
-
-**Applications Web/Mobile**
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Saas"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="Less"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue js"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png" alt="Android"/></code>
-<code><img height="32" src="https://miro.medium.com/max/500/1*ZmoALpPUfjbakRJ_-8vmCw.png" alt="Web RTC"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electronjs"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Nextjs"/></code>
-
-**Data, Domain And Hosting**
-
-<code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
-<code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
-<code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/web-hosting-96-1134923.png" alt="Domain And Hosting"/></code>
-<code><img height="32" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18181230061536126577-64.png" alt="AWS"/></code>
-<code><img height="32" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="GraphQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png" alt="Docker"/></code>
-<code><img height="32" src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" alt="Redux"/></code>
-<code><img height="32" src="https://camo.githubusercontent.com/a830efd8c394a013f72dad6e7bf1e87f6c226503e69ce5858279b17e0521584c/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d6170616368652d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f6170616368652e7376673f73616e6974697a653d74727565" alt="Apache"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" alt="NGINX"/></code>
-
-**Responsive Design**
-
-<code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-
-**Utilities/Productivity**
-
-<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
-<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
-<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" alt="Adobe Premiere"/></code>
-<code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects"/></code>
-<code><img height="30" width="150" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lighroom"/></code>
-<code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
-<code><img height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
-<code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" alt="Gulp"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="WordPress"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
-
-**DevOps**
-
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
-<code><img height="32" src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2" alt="Intellij IDEA"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png" alt="PyCharm"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
-
-**Business Tools**
-
-<code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/calendly.svg" alt="Calendly"/></code>
-<code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
-<code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
-
-
-**Internet Searchers/Browsers**
-
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/duckduckgo-3-569238.png" alt="Duck Duck Go"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
-
-**Operational Systems**
-
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/865px-Tux.svg.png" alt="Linux"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Mac"/></code>
-
-<br/>
-_______________________________________________________________
 
 ## My Latest Posts On CybertimeUP's Blog
 <br/>
@@ -250,8 +271,7 @@ _______________________________________________________________
 
 
 
-<br/>
-_______________________________________________________________
+ <br /> <br />
 
 
 
