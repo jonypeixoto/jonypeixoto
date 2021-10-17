@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/header-github.gif" alt="Hey, I'm Jony !">
+</p>
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 # Hey! What's UP? <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
@@ -49,13 +61,15 @@ ________________________________________________________________
 
 ### Talking About Personal Stuffs:
 
- 🚀 I'm Entrepreneur At CybertimeUP (CEO), X-Code (Founder/CTO);
 
- ❤️ I Love To Help People On Digital Performance :wink:;
+  
+ 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO and [X-Code](https://www.x-code.io) - Founder/CTO
 
- 🌱 I'm An Eternal Programming Student; 
+ ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com/youtube) :wink:;
 
- 🏆 My Favorite Challenge Is CS50 (Harvard University).
+ 🌱 I'm An [Eternal Programming Student](https://www.jonypeixoto.com); 
+
+ 🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
   
   
  <br /> <br />
@@ -287,7 +301,7 @@ _______________________________________________________________
   
 
 
-- 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/{:target="_blank"})<br />
+- 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
 - 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
 - 📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
 - 📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
