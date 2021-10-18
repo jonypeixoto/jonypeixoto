@@ -75,13 +75,13 @@ ________________________________________________________________
  🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
   
   
- <br />
+ <br/>
   
 _______________________________________________________________
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🔝
 
- <br />
+ <br/>
   
 <br>
 
@@ -112,8 +112,8 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electronjs"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Nextjs"/></code>
 
- <br /> <br />
-
+ <br/><br/>
+  
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Database, Domain And Hosting:
 
@@ -130,7 +130,7 @@ _______________________________________________________________
 <code><img height="32" src="https://camo.githubusercontent.com/a830efd8c394a013f72dad6e7bf1e87f6c226503e69ce5858279b17e0521584c/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d6170616368652d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f6170616368652e7376673f73616e6974697a653d74727565" alt="Apache"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" alt="NGINX"/></code>
 
- <br /> <br />
+ <br/><br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
@@ -138,7 +138,7 @@ _______________________________________________________________
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
- <br /> <br />
+ <br/><br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Utilities/Productivity:
@@ -158,7 +158,7 @@ _______________________________________________________________
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="WordPress"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
 
- <br /> <br />
+ <br/> <br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> DevOps:
@@ -172,7 +172,7 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
 
- <br /> <br />
+ <br/> <br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Business Tools:
@@ -183,7 +183,7 @@ _______________________________________________________________
 <code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
- <br /> <br />
+ <br/> <br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Internet Searchers/Browsers:
@@ -193,7 +193,7 @@ _______________________________________________________________
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/duckduckgo-3-569238.png" alt="Duck Duck Go"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
 
- <br /> <br />
+ <br/> <br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Operational Systems:
@@ -211,7 +211,10 @@ _______________________________________________________________
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
- <br />
+<br/>
+  
+## Meet our Projects
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/jonypeixoto/jonypeixoto/blob/main/GitHub_CybertimeUP_banner.png)](http://www.cybertimeup.com)   [![X-Code - Marketplace Platform App using AI](https://github.com/jonypeixoto/jonypeixoto/blob/main/GitHub_X_Code_banner.png)](https://www.x-code.io)   
   
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Our site
 
@@ -219,7 +222,7 @@ _______________________________________________________________
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
   
-<br /><br />
+<br/><br/>
   
 ### 🎞 Streaming 🔝
   
@@ -231,7 +234,7 @@ _______________________________________________________________
   <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
 </a>
   
- <br /><br /> 
+ <br/><br/> 
 
 ### 🌐 Social Medias 🔝
 
@@ -331,7 +334,7 @@ _______________________________________________________________
 
 
 
- <br /> <br />
+ <br/><br/>
 
  ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  Total Profile Views: <br>
  <p align="center"> 
