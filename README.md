@@ -115,9 +115,8 @@ _______________________________________________________________
  <br/><br/>
   
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Database, Domain And Hosting:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
 
-<code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 <code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
 <code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
@@ -151,6 +150,7 @@ _______________________________________________________________
 <code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
 <code><img height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
+  <code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
 <code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
