@@ -216,7 +216,7 @@ _______________________________________________________________
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Meet our Projects
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](http://www.cybertimeup.com "(target | _blank)")   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](http://www.cybertimeup.com "(target | _blank)")   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/test.png)](https://www.x-code.io)   
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site <a href="https://www.jonypeixoto.com">
   <code>
@@ -280,7 +280,7 @@ _______________________________________________________________
 
 <a href="https://www.medium.com/jonypeixoto">
   <code><img alt="My Medium" height="30" width="120" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
-</a> 
+</a>
 
 <a href="mailto:contact@jonypeixoto.com">
   <code><img alt="My E-mail" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></code>
