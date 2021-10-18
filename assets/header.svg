@@ -2,7 +2,7 @@
   👉 COMENTARIO
   Este é o início do nosso arquivo SVG, que nada mais é que um arquivo de imagem.
   Para fins do nosso cabeçalho, você pode subir no markdown uma tag de imagem HTML com a "src" apontando para este arquivo, ou como markdown, dessa forma:
-    <img src="header.svg" /> 
+    <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg" /> 
   ou
     ![Cabeçalho](header.svg)
 
@@ -18,7 +18,7 @@
       <!-- 
         👉 COMENTARIO
         O Markdown não estava conseguindo baixar como padrão a imagem como referência, ou seja, não estava usando a imagem se eu colocasse assim:
-          <image href="header.png" />
+          <image href="header.png" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.png"/>
         A única forma de o Markdown referenciar isso certo e carregar a imagem de fundo foi com a conversão da imagem em dados de base64, que obtive subindo a imagem que eu queria neste site: https://base64.guru/converter/encode/image/png
         Essa codificação em base64 é nada mais que uma outra forma de "escrever" a imagem. Essencialmente é a mesma coisa, contada de outra forma. A codificação da imagem é bem grande, então role a tela bastante até chegar no próximo comentário ou simplesmente busque nesse arquivo pela palavra "👉 COMENTARIO"
       -->
