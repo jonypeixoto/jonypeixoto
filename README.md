@@ -216,7 +216,7 @@ _______________________________________________________________
 ## Meet our Projects
 [![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](http://www.cybertimeup.com "(target | _blank)")   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/X_Code_banner.png)](https://www.x-code.io)   
   
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Our site
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="header.svg" /></a>
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
