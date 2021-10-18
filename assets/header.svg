@@ -272,7 +272,7 @@
       }
 
       .animated-button1 {
-        background: linear-gradient(-30deg, #3d0b0b 50%, #2b0808 50%);
+        background: linear-gradient(-30deg, #0b0b3d 50%, #0b082b 50%);
         padding: 20px 40px;
         margin: 12px;
         display: inline-block;
@@ -315,8 +315,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 8, 8, 0)), to(#d92626));
-        background: linear-gradient(to left, rgba(43, 8, 8, 0), #d92626);
+        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 8, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to left, rgba(43, 8, 8, 0), #3a26d9);
         -webkit-animation: 2s animateTop linear infinite;
                 animation: 2s animateTop linear infinite;
       }
@@ -337,8 +337,8 @@
         right: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 8, 8, 0)), to(#d92626));
-        background: linear-gradient(to top, rgba(43, 8, 8, 0), #d92626);
+        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 8, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to top, rgba(43, 8, 8, 0), #3a26d9);
         -webkit-animation: 2s animateRight linear -1s infinite;
                 animation: 2s animateRight linear -1s infinite;
       }
@@ -359,8 +359,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 8, 8, 0)), to(#d92626));
-        background: linear-gradient(to right, rgba(43, 8, 8, 0), #d92626);
+        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 8, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to right, rgba(43, 8, 8, 0), #3a26d9);
         -webkit-animation: 2s animateBottom linear infinite;
                 animation: 2s animateBottom linear infinite;
       }
@@ -381,8 +381,8 @@
         left: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 8, 8, 0)), to(#d92626));
-        background: linear-gradient(to bottom, rgba(43, 8, 8, 0), #d92626);
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 8, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to bottom, rgba(43, 8, 8, 0), #3a26d9);
         -webkit-animation: 2s animateLeft linear -1s infinite;
                 animation: 2s animateLeft linear -1s infinite;
       }
@@ -442,8 +442,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 26, 8, 0)), to(#d98026));
-        background: linear-gradient(to left, rgba(43, 26, 8, 0), #d98026);
+        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 26, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to left, rgba(43, 26, 8, 0), #3a26d9);
         -webkit-animation: 2s animateTop linear infinite;
                 animation: 2s animateTop linear infinite;
       }
@@ -464,8 +464,8 @@
         right: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 26, 8, 0)), to(#d98026));
-        background: linear-gradient(to top, rgba(43, 26, 8, 0), #d98026);
+        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 26, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to top, rgba(43, 26, 8, 0), #3a26d9);
         -webkit-animation: 2s animateRight linear -1s infinite;
                 animation: 2s animateRight linear -1s infinite;
       }
@@ -486,8 +486,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 26, 8, 0)), to(#d98026));
-        background: linear-gradient(to right, rgba(43, 26, 8, 0), #d98026);
+        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 26, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to right, rgba(43, 26, 8, 0), #3a26d9);
         -webkit-animation: 2s animateBottom linear infinite;
                 animation: 2s animateBottom linear infinite;
       }
@@ -508,8 +508,8 @@
         left: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 26, 8, 0)), to(#d98026));
-        background: linear-gradient(to bottom, rgba(43, 26, 8, 0), #d98026);
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 26, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to bottom, rgba(43, 26, 8, 0), #3a26d9);
         -webkit-animation: 2s animateLeft linear -1s infinite;
                 animation: 2s animateLeft linear -1s infinite;
       }
@@ -526,7 +526,7 @@
       }
 
       .animated-button3 {
-        background: linear-gradient(-30deg, #3d3d0b 50%, #2b2b08 50%);
+        background: linear-gradient(-30deg, #0b0b3d 50%, #0b082b 50%);
         padding: 20px 40px;
         margin: 12px;
         display: inline-block;
@@ -569,8 +569,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 43, 8, 0)), to(#d9d926));
-        background: linear-gradient(to left, rgba(43, 43, 8, 0), #d9d926);
+        background: -webkit-gradient(linear, right top, left top, from(rgba(43, 43, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to left, rgba(43, 43, 8, 0), #3a26d9);
         -webkit-animation: 2s animateTop linear infinite;
                 animation: 2s animateTop linear infinite;
       }
@@ -591,8 +591,8 @@
         right: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 43, 8, 0)), to(#d9d926));
-        background: linear-gradient(to top, rgba(43, 43, 8, 0), #d9d926);
+        background: -webkit-gradient(linear, left bottom, left top, from(rgba(43, 43, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to top, rgba(43, 43, 8, 0), #3a26d9);
         -webkit-animation: 2s animateRight linear -1s infinite;
                 animation: 2s animateRight linear -1s infinite;
       }
@@ -613,8 +613,8 @@
         left: 0px;
         width: 100%;
         height: 2px;
-        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 43, 8, 0)), to(#d9d926));
-        background: linear-gradient(to right, rgba(43, 43, 8, 0), #d9d926);
+        background: -webkit-gradient(linear, left top, right top, from(rgba(43, 43, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to right, rgba(43, 43, 8, 0), #3a26d9);
         -webkit-animation: 2s animateBottom linear infinite;
                 animation: 2s animateBottom linear infinite;
       }
@@ -635,8 +635,8 @@
         left: 0px;
         height: 100%;
         width: 2px;
-        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 8, 0)), to(#d9d926));
-        background: linear-gradient(to bottom, rgba(43, 43, 8, 0), #d9d926);
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 8, 0)), to(#3a26d9));
+        background: linear-gradient(to bottom, rgba(43, 43, 8, 0), #3a26d9);
         -webkit-animation: 2s animateLeft linear -1s infinite;
                 animation: 2s animateLeft linear -1s infinite;
       }
