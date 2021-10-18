@@ -218,8 +218,10 @@ _______________________________________________________________
   
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
-<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="18px"><a href="https://www.jonypeixoto.com">
-  <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site <a href="https://www.jonypeixoto.com">
+  <code>
+    <br />
+    <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
   
 <br/><br/>
