@@ -397,8 +397,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Social Medias 🔝
+	
 <br/>
   
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
@@ -426,13 +426,13 @@ _______________________________________________________________
   
  <br/><br/> 
 
-### 🌐 Social Medias 🔝
-
 ### Digital Nomad Group:
 
 <a href="https://nomadlist.com/@jonypeixoto">
   <code><img alt="My NomadList" height="30" width="110" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></code>
 </a>
+	
+<br/><br/>
   
 ### Groups: 
   
@@ -443,6 +443,8 @@ _______________________________________________________________
 <a href="https://discord.gg/bKgMnsZJ">
   <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
 </a>
+	
+<br/><br/>
   
 ### Other:
   
@@ -470,10 +472,6 @@ _______________________________________________________________
   <code><img alt="My Medium" height="30" width="120" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
 </a>
 
-<a href="https://www.twitter.com/peixotojony">
-  <code><img alt="My Twitter" height="30" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></code>
-</a> 
-
 <a href="https://www.pinterest.com/jonypeixoto">
   <code><img alt="My Pinterest" height="30" width="120" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></code>
 </a> 
@@ -491,6 +489,14 @@ _______________________________________________________________
 </a> 
 
 <br/><br/>
+
+<a href="https://www.twitter.com/peixotojony">
+  <code><img alt="My Twitter" height="30" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></code>
+</a> 
+
+![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=OJonyPeixoto)
+
+<br/>
   
 ### 🎶 Sound 🔝
   
