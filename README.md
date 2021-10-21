@@ -29,9 +29,57 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img width="70" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/attention_blob.gif" alt="Attention emoji" />
 </p>
 
+# Summary:
+
 ## If you don't speak english...
 
+<details>
+   <summary>
+	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
+   </summary>
+<br />
+<a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<br />
+Programador Full-Stack, Engenheiro e Startupeiro. Eu curto de codar, criar novas engenhosidades e sentir a adrenalina de treinar. Solteiro, por enquanto :)
+<br /><br />
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<br />
+<hr />
+Ao perceber os "influenciadores" de Engenharia e tecnologia, é possível perceber que pouquíssimos vestem os dois chapéus. Assim como eu, há outros <strong>engenheiros programadores</strong> (ou ao menos entusiastas nesse nicho) que gostam da ideia de um local em que a tecnologia voltada a Engenharia pode ser discutida de uma forma intermediária entre (i) <i>a abordagem superficial</i> - de "iniciante" tratada por aqueles que se auto-intitulam engenheiros da área tech ou de inovação - e (ii) <i>a abordagem mais "técnica" e "pesada"</i> com que conteúdos de tecnologia são apresentados a desenvolvedores.
+<br />
+<br />
+Eu busco construir soluções estratégicas por e para engenheiro, que possam potencialmente impactar a forma com que trabalhamos. E me divertir no processo. 😁
+<br />
+<br />
+<i>Ei, você é um engenheiro interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um hey? Envie uma mensagem para <a href="mailto:me@jonypeixoto.com">me@jonypeixoto.com</a></i> 😉
+<br /><br />
+<hr />
+<h3>💻 Atividade atual</h3>
+☑️ Buscando expansão de negócios para o <a href="http://cybertimeup.com.br" target="_blank">CybertimeUP</a><br />
+☑️ Procurando parcerias na plataforma <a href="https://x-code.io" target="_blank">X-Code</a><br />
+☑️ Buscando novas experiências em vídeos com automação, machine learning e internet das coisas com a <a href="https://experiencevideos.io" target="_blank">Experience Videos</a><br />
+☑️ Criando conteúdo sobre Inovação e Programação aplicados a engenharia da vida<br />
+☑️ Aplicando e aprendendo exponencialmente novas estratégias de Marketing<br />
+<br />
+</details>
 
+<details>
+   <summary>
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Chinese%20Version-red" />
+   </summary>
+</details>
+
+<details>
+   <summary>
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Español%20Version-yellow" />
+   </summary>
+</details>
+  
 <br/><br/><br/>
 
 
