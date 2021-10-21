@@ -35,7 +35,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <details>
    <summary>
-	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
+	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
    </summary>
 <br />
 <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
@@ -70,14 +70,72 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 
 <details>
    <summary>
-        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Chinese%20Version-red" />
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-中文版%20-red" />
    </summary>
+<br />
+<a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<br />
+全棧程序員、工程師和創業者。我喜歡編碼，創造新的創造力並感受訓練的腎上腺素。暫時單身:)
+<br /><br />
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style= flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor =白色" /></a>
+<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white " /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo= Linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=白色"/></a>
+<br />
+<hr />
+當注意到工程和技術的“影響者”時，可能會發現很少有人同時戴這頂帽子。像我一樣，還有其他<strong>編程工程師</strong>（或者至少是這個領域的愛好者）喜歡在一個地方可以在（i）<i>之間以中間方式討論工程技術的想法膚淺的方法</i> - 自稱為技術或創新工程師的人對待“初學者”的方法 - 以及 (ii) <i>更“技術”和“重”的方法</i> 技術內容是什麼呈現給開發者。
+<br />
+<br />
+我希望為工程師構建戰略解決方案，這些解決方案可能會影響我們的工作方式。並在這個過程中玩得開心。 😁
+<br />
+<br />
+<i>嘿，您是對編程感興趣的工程師，想要在創新項目上合作還是只想發送一個嘿嘿？發送消息到 <a href="mailto:me@jonypeixoto.com">me@jonypeixoto.com</a></i> 😉
+<br /><br />
+<hr />
+<h3>💻 當前活動</h3>
+☑️ 尋求業務擴展 <a href="http://cybertimeup.com.br" target="_blank">CybertimeUP</a><br />
+☑️ 在平台上尋找合作夥伴 <a href="https://x-code.io" target="_blank">X-Code</a><br />
+☑️ 通過自動化、機器學習和物聯網尋求新的視頻體驗 <a href="https://experiencevideos.io" target="_blank">Experience Videos</a><br />
+☑️ 創建有關生命工程應用的創新和編程內容<br />
+☑️ 以指數方式應用和學習新的營銷策略<br />
+<br />
 </details>
 
 <details>
    <summary>
-        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Español%20Version-yellow" />
+        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Versión%20en%20Español-yellow" />
    </summary>
+<br />
+<a href="https://jonypeixoto.com"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<br />
+Programador Full-Stack, Ingeniero y Startuper. Me gusta programar, crear nuevos ingenios y sentir la adrenalina del entrenamiento. Soltero por ahora :)
+<br /> <br />
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"> <img title = "YouTube" src = "https://img.shields.io/badge/jonypeixoto-FF0000?style= flat & logo = youtube & logoColor = white "/> </a>
+<a href="https://www.instagram.com/jonypeixoto/"> <img title = "Instagram" src = "https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor = blanco "/> </a>
+<a href="https://blog.jonypeixoto.com"> <img title = "Blog" src = "https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /> </a>
+<a href="https://twitter.com/OJonyPeixoto"> <img title = "Twitter" src = "https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white "/> </a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"> <img title = "LinkedIn" src = "https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo= linkedin & logoColor = white "/> </a>
+<a href="mailto:me@jonypeixoto.com"> <img title = "Correo electrónico" src = "https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor= blanco "/> </a>
+<br />
+<h />
+Al notar los "influencers" de la Ingeniería y la tecnología, es posible ver que muy pocos usan ambos sombreros. Como yo, hay otros <strong> ingenieros de programación </strong> (o al menos entusiastas de este nicho) a los que les gusta la idea de un lugar donde se pueda discutir la tecnología de la ingeniería de forma intermedia entre (i) <i> el enfoque superficial </i> - del "principiante" tratado por aquellos que se llaman a sí mismos ingenieros tecnológicos o de innovación - y (ii) <i> el enfoque más "técnico" y "pesado" </i> con el contenido tecnológico presentado a los desarrolladores.
+<br />
+<br />
+Busco construir soluciones estratégicas por y para ingenieros que puedan tener un impacto potencial en la forma en que trabajamos. Y diviértete en el proceso. 😁
+<br />
+<br />
+<i> Oye, ¿eres un ingeniero interesado en la programación, quieres colaborar en proyectos innovadores o simplemente quieres enviar un ey? Envíe un mensaje a <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<br /> <br />
+<h />
+<h3> 💻 Actividad actual </h3>
+☑️ Buscando expansión comercial para <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
+☑️ Buscando asociaciones en la <a href="https://x-code.io" target="_blank"> X-Code </a> <br />
+☑️ Buscando nuevas experiencias de video con automatización, aprendizaje automático e Internet de las cosas con <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
+☑️ Creación de contenido sobre Innovación y Programación aplicada a la ingeniería de vida <br />
+☑️ Aplicar y aprender exponencialmente nuevas estrategias de marketing <br />
+<br />
 </details>
   
 <br/><br/><br/>
