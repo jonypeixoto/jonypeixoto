@@ -170,6 +170,42 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 ☑️ Экспоненциальное применение и изучение новых маркетинговых стратегий <br />
 <br />
 </details>
+
+<details>
+   <summary>
+	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-النسخة%20العربية%20-black" />
+   </summary>
+<br />
+<a href="https://jonypeixoto.com"><img title="مرحبًا ، تحقق من الموقع الخاص بي 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<br />
+مبرمج ومهندس وبدء تشغيل. أحب أن أكتب ، وأنشئ إبداعات جديدة وأشعر بأدرينالين التدريب. واحد الآن :)
+<br /><br />
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<br />
+<hr />
+عند ملاحظة "المؤثرين" في الهندسة والتكنولوجيا ، من الممكن أن ترى أن عددًا قليلاً جدًا من الأشخاص يرتدون القبعتين. مثلي ، هناك <strong> مهندسو برمجة </ strong> (أو على الأقل متحمسون في هذا المجال المتخصص) ممن يحبون فكرة مكان يمكن فيه مناقشة التكنولوجيا الهندسية بطريقة وسيطة بين (i) <i> النهج السطحي </ i> - "للمبتدئين" الذي يعامله أولئك الذين يسمون أنفسهم بمهندسي التكنولوجيا أو الابتكار - و (2) <i> النهج الأكثر "تقنيًا" و "ثقيلًا" </ i> مع محتوى التكنولوجيا قدم للمطورين.
+<br />
+<br />
+إنني أتطلع إلى بناء حلول إستراتيجية للمهندسين ومن أجلهم والتي يمكن أن تؤثر على طريقة عملنا. واستمتع بهذه العملية. 😁
+<br />
+<br />
+<i> مرحبًا ، هل أنت مهندس مهتم بالبرمجة ، تريد التعاون في مشاريع مبتكرة أو تريد فقط إرسال مرحباً؟ أرسل رسالة إلى <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<br /> <br />
+<hr />
+<h3> 💻 النشاط الحالي </ h3>
+<br/><br/>
+☑️ السعي لتوسيع الأعمال التجارية من أجل <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
+☑️ البحث عن شراكات على <a href="https://x-code.io" target="_blank"> النظام الأساسي لـ X-Code </a> <br />
+☑️ البحث عن تجارب فيديو جديدة مع التشغيل الآلي والتعلم الآلي وإنترنت الأشياء باستخدام <a href="https://experiencevuable.io" target="_blank"> مقاطع فيديو التجربة </a> <br />
+إنشاء محتوى عن الابتكار والبرمجة المطبق على هندسة الحياة <br />
+☑️ تطبيق استراتيجيات التسويق الجديدة وتعلمها بشكل كبير
+<br />
+</details>
   
 <br/><br/>
 
