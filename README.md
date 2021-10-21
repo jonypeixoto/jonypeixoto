@@ -21,8 +21,16 @@ Then i save result to [assets/github.gif](assets/github.gif)
   Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil. </b><br /><br />
-  Yeahhhh, I'm Brazilian too!
 </p>
+
+<br/><br/>
+
+<p>
+  <img width="70" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/attention_blob.gif" alt="Attention emoji" />
+</p>
+
+## If you don't speak english...
+
 
 <br/><br/><br/>
 
