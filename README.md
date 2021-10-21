@@ -77,12 +77,12 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <br />
 全棧程序員、工程師和創業者。我喜歡編碼，創造新的創造力並感受訓練的腎上腺素。暫時單身:)
 <br /><br />
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style= flat&logo=youtube&logoColor=white" /></a>
-<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor =白色" /></a>
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white " /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo= Linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=白色"/></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
 當注意到工程和技術的“影響者”時，可能會發現很少有人同時戴這頂帽子。像我一樣，還有其他<strong>編程工程師</strong>（或者至少是這個領域的愛好者）喜歡在一個地方可以在（i）<i>之間以中間方式討論工程技術的想法膚淺的方法</i> - 自稱為技術或創新工程師的人對待“初學者”的方法 - 以及 (ii) <i>更“技術”和“重”的方法</i> 技術內容是什麼呈現給開發者。
@@ -112,12 +112,12 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <br />
 Programador Full-Stack, Ingeniero y Startuper. Me gusta programar, crear nuevos ingenios y sentir la adrenalina del entrenamiento. Soltero por ahora :)
 <br /> <br />
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"> <img title = "YouTube" src = "https://img.shields.io/badge/jonypeixoto-FF0000?style= flat & logo = youtube & logoColor = white "/> </a>
-<a href="https://www.instagram.com/jonypeixoto/"> <img title = "Instagram" src = "https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor = blanco "/> </a>
-<a href="https://blog.jonypeixoto.com"> <img title = "Blog" src = "https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /> </a>
-<a href="https://twitter.com/OJonyPeixoto"> <img title = "Twitter" src = "https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white "/> </a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"> <img title = "LinkedIn" src = "https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo= linkedin & logoColor = white "/> </a>
-<a href="mailto:me@jonypeixoto.com"> <img title = "Correo electrónico" src = "https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor= blanco "/> </a>
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <h />
 Al notar los "influencers" de la Ingeniería y la tecnología, es posible ver que muy pocos usan ambos sombreros. Como yo, hay otros <strong> ingenieros de programación </strong> (o al menos entusiastas de este nicho) a los que les gusta la idea de un lugar donde se pueda discutir la tecnología de la ingeniería de forma intermedia entre (i) <i> el enfoque superficial </i> - del "principiante" tratado por aquellos que se llaman a sí mismos ingenieros tecnológicos o de innovación - y (ii) <i> el enfoque más "técnico" y "pesado" </i> con el contenido tecnológico presentado a los desarrolladores.
@@ -137,8 +137,41 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 ☑️ Aplicar y aprender exponencialmente nuevas estrategias de marketing <br />
 <br />
 </details>
+
+<details>
+   <summary>
+	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Русская%20версия-white" />
+   </summary>
+<br />
+<a href="https://jonypeixoto.com"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<br />
+Программист полного стека, Ingeniero и Startuper. Мне нравится программировать, создавать что-то новое и чувствовать адреналин от тренировок. Развязываю к тому времени :)
+<br /> <br />
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<br />
+Заметив «влиятельных лиц» инженерии и технологий, можно увидеть, что очень немногие носят обе шляпы. Как и я, есть и другие <strong> инженеры-программисты </strong> (или, по крайней мере, энтузиасты в этой нише), которым нравится идея места, где инженерные технологии можно обсуждать как промежуточное звено между (i) <i> поверхностный подход </i> - к "новичку" относятся те, кто называет себя техническими инженерами или инженерами-новаторами - и (ii) <i> более "технический" и "тяжелый" подход </i> к тому, что представляет собой технологический контент представлен разработчикам.
+<br />
+<br />
+Я ищу возможность найти стратегические решения инженерами и для них, которые потенциально могут повлиять на нашу работу. И получайте удовольствие от процесса. 😁
+<br />
+<br />
+<i> Эй, вы инженер, интересующийся программированием, хотите сотрудничать над инновационными проектами или просто хотите послать привет? Отправьте сообщение на адрес <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<br /> <br />
+<h3> 💻 Текущая активность </h3>
+☑️ Стремление к расширению бизнеса для <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
+☑️ Ищете партнерские отношения на <a href="https://x-code.io" target="_blank"> X-Code </a> <br />
+☑️ Поиск новых впечатлений от видео с помощью автоматизации, машинного обучения и Интернета вещей с помощью <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
+☑️ Создание материалов по инновациям и программированию в сфере инженерии жизни <br />
+☑️ Экспоненциальное применение и изучение новых маркетинговых стратегий <br />
+<br />
+</details>
   
-<br/><br/><br/>
+<br/><br/>
 
 
 ____________________________________
