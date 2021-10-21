@@ -393,7 +393,7 @@ _______________________________________________________________
 
 <br/>
 
-
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 _______________________________________________________________
 
 
@@ -499,18 +499,20 @@ _______________________________________________________________
 <br/>
   
 ### 🎶 Sound 🔝
+	
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+  <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
+</a>
+
+<br/><br/>
   
 <a href="https://www.jonypeixoto.com">
   <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
 </a>
   
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
-  <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
-</a>
+![Jony Peixoto Playlist](https://spotify-recently-played-readme.vercel.app/api?user=vlfntxg16c6vmvicviub6scvf)
   
 <br/><br/>
-  
-![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 
 ## 📝My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
