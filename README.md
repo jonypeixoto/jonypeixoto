@@ -244,7 +244,7 @@ ________________________________________________________________
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%231D00EE&lines=Always+learning+new+things;%23CybertimeUP;Computing+Engineer;%23TogetherBesidesToTech;Chemical+Engineering+Student;%23eXtraordinaryGuys"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%231D00EE&lines=Always+learning+new+things;%23CybertimeUP;Computing+Engineer;%23ExperienceVideos;Super+Programmer;%23SuperINSIGHTS;%23SuperWeb;%23SuperEngineering;%23SuperEngineer;%23SuperApps;%23SuperProgrammer;%23TogetherBesidesToTech;Chemical+Engineering+Student;%23eXtraordinaryGuys"></a>
 </p>
 
   
