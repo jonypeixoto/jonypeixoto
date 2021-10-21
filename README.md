@@ -231,6 +231,10 @@ ____________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
 </div>
+	
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonypeixoto&theme=monokai&hide_title=true&layout=default&v=2" />
+</a>
   
 <div align="center">
   <a href="https://github.com/jonypeixoto">
