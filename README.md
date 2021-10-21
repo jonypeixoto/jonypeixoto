@@ -231,11 +231,17 @@ ____________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
 </div>
+	
+<div align="center">
+  <a href="https://github.com/jonypeixoto">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jonypeixoto" alt="Statistic Programming plus" />
+  <img height="420em" src="https://wakatime.com/share/@jonypeixoto/5552b70c-da4b-4da4-b3bf-5851b083ed8d.svg" alt="Statistic Programming extra plus" />
+</div>
   
 <br/>
 	
  
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jony's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 ________________________________________________________________
