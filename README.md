@@ -89,12 +89,6 @@ ____________________________________
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🔝
 
-<p align="left">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/JonyPeixoto/JonyPeixoto" alt="Visitors badge" />
-   </a>
-</p>
-
 
 
 ![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
