@@ -42,6 +42,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <br />
 Programador Full-Stack, Engenheiro e Startupeiro. Eu curto de codar, criar novas engenhosidades e sentir a adrenalina de treinar. Solteiro, por enquanto :)
 <br /><br />
+<a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
@@ -77,6 +78,7 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <br />
 全棧程序員、工程師和創業者。我喜歡編碼，創造新的創造力並感受訓練的腎上腺素。暫時單身:)
 <br /><br />
+<a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
@@ -112,6 +114,7 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <br />
 Programador Full-Stack, Ingeniero y Startuper. Me gusta programar, crear nuevos ingenios y sentir la adrenalina del entrenamiento. Soltero por ahora :)
 <br /> <br />
+<a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
@@ -147,6 +150,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <br />
 Программист полного стека, Ingeniero и Startuper. Мне нравится программировать, создавать что-то новое и чувствовать адреналин от тренировок. Развязываю к тому времени :)
 <br /> <br />
+<a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
@@ -180,6 +184,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <br />
 مبرمج ومهندس وبدء تشغيل. أحب أن أكتب ، وأنشئ إبداعات جديدة وأشعر بأدرينالين التدريب. واحد الآن :)
 <br /><br />
+<a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
