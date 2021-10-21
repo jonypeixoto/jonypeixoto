@@ -231,15 +231,21 @@ ____________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonypeixoto&theme=algolia&show_icons=true" alt="JonyPeixoto's github statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonypeixoto&layout=compact" alt="Statistic Programming" />
 </div>
-	
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonypeixoto&theme=monokai&hide_title=true&layout=default&v=2" />
-</a>
   
-<div align="center">
-  <a href="https://github.com/jonypeixoto">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonypeixoto" alt="JonyPeixoto's github statistics plus"/>
-</div>
+<br/>
+	
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+<!--..-->
+
+  
+ 
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <!--[Jony's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&theme=xcode)>
 
 
 ________________________________________________________________
