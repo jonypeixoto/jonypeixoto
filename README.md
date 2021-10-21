@@ -397,10 +397,10 @@ _______________________________________________________________
   
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Meet our Projects
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Meet our Projects:
 [![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.cybertimeup.com "(target | _blank)")   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.x-code.io)   [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/X_Code_banner.png)](https://www.x-code.io)   
     
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site <a href="https://www.jonypeixoto.com">
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site: <a href="https://www.jonypeixoto.com">
   <code>
     <br />
     <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
@@ -422,13 +422,13 @@ _______________________________________________________________
 
 ### 🌐 Social Medias 🔝
 
-### Digital Nomad Group
+### Digital Nomad Group:
 
 <a href="https://nomadlist.com/@jonypeixoto">
   <code><img alt="My NomadList" height="30" width="110" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></code>
 </a>
   
-### Groups 
+### Groups: 
   
 <a href="https://www.t.me/cybertimeup">
   <code><img alt="My Telegram" height="30" width="120" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></code>
@@ -438,7 +438,7 @@ _______________________________________________________________
   <code><img alt="My Discord" height="30" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></code>
 </a>
   
-### Other
+### Other:
   
 <a href="https://www.fb.com/jonypeixotooficial">
   <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
