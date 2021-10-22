@@ -219,7 +219,7 @@ ____________________________________
 
 
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🔝
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🆙
 
 
 
@@ -269,7 +269,7 @@ ________________________________________________________________
   
 _______________________________________________________________
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🔝
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🆙
 
  <br/>
   
@@ -399,7 +399,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Social Medias 🔝
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Social Medias 🆙
 	
 <br/>
   
@@ -416,7 +416,7 @@ _______________________________________________________________
   
 <br/><br/>
   
-### 🎥 Streaming 🔝
+### 🎥 Streaming 🆙
   
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
@@ -535,7 +535,7 @@ _______________________________________________________________
 
 <br/>
   
-### 🎶 Sound 🔝
+### 🎶 Sound 🆙
 	
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
@@ -551,19 +551,29 @@ _______________________________________________________________
   
 <br/><br/>
 
-## 📝My Latest Posts On CybertimeUP's Blog 🔝 <a href="https://blog.cybertimeup.com" target="_blank">
+## 📝My Latest Posts On CybertimeUP's Blog 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
 </a>
-  
-<br/>
-  
 
+<br/>
+	
 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
 📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
 📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
 📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
+  
+<br/><br/>
+	
+## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://blog.jonypeixoto.com" target="_blank">
+  <code>
+    <br/><br/>
+    <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+</a>
 
+<br/></br>
+  
+📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
 
  <br/><br/>
 
