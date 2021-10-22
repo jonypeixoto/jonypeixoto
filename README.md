@@ -416,7 +416,7 @@ _______________________________________________________________
   
 <br/><br/>
   
-### 🎞 Streaming 🔝
+### 🎥 Latest YouTube Videos / Streaming 🔝
   
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
@@ -426,7 +426,16 @@ _______________________________________________________________
   <code><img alt="My Twitch" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
 </a>
   
- <br/><br/> 
+<br/><br/> 
+	
+<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+  <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
+</a>
+	
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+	
+<br/><br/> 
 
 ### Digital Nomad Group:
 
