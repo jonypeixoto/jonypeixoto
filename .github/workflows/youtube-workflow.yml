@@ -1,7 +1,7 @@
 name: Template Latest Youtube
 on:
   schedule:
-    # Runs at 08h00 on Sunday: set here your schedulled automation. If you are not familiar with cron, use https://crontab.guru/
+    # Runs at 08h00 on Sunday
     - cron: '0 8 * * 0'
   workflow_dispatch:
 jobs:
@@ -12,9 +12,27 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE" # the tag you will use in your README.md file
+          comment_tag_name: "YOUTUBE"
           commit_message: "Updated readme with the latest youtube data"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCMvZcsy7iN1Js9ceNoYckOQ" #replace with your channel Id 
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCMvZcsy7iN1Js9ceNoYckOQ"
+          # * custom_tags * possibilita obtermos uma variavel com base 
+          # no resultado obtido na linha de feed_list acima. Por exemplo, se você 
+          # acessar o endereço acima no navegador, vai acessar o XML que o YouTube fornece
+          # para o meu canal (você pode visualizar melhor aqui: 
+          # https://codebeautify.org/xmlviewer).
+          #
+          # Se olhar nas opções existentes, você vai verificar que há, por exemplo, uma tag com 
+          # o nome yt:videoid que é o id do nosso vídeo. Tem tag para o título também. Tem até 
+          # thumbnail no media:thumbnail.
+          #
+          # Essas informações você pode passar para o endereço para o template de modo a obter a 
+          # imagem, por exemplo
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          # * max_post_count * apenas delimita quantos resultados obteremos.
           max_post_count: 6
-          template: '$newline[![](https://youtube-thumbnail-retriever.vercel.app/api/youtube-thumbnail/?channelId=$channelId&videoId=$videoId)]($url)'
+          # * template * determina como será a exibição de cada um dos resultados obtidos
+          # na nossa página de README. As variáveis $newline, $title e $url são variáveis já
+          # definidas pelo autor do repositório, e podem ser usadas aqui. Veja mais informações
+          # sobre essas e outras variáveis aqui: 
+          # https://github.com/gautamkrishnar/blog-post-workflow
+          template: '$newline[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=$channelId&videoId=$videoId)]($url)'
