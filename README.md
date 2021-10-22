@@ -243,7 +243,9 @@ ____________________________________
  
 [![Jony's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-
+<br/>
+	
+The above stats do not mean all the jobs as a programmer.
 ________________________________________________________________
 
 <br/>
