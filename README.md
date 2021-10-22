@@ -428,11 +428,19 @@ _______________________________________________________________
   
 <br/><br/> 
 	
-<a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
+<a href="https://www.youtube.com/channel/UCMvZcsy7iN1Js9ceNoYckOQ">
   <code><img alt="My YouTube" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></code>
 </a>
+
+<br/><br/>
 	
+<a href="https://www.youtube.com/channel/UCMvZcsy7iN1Js9ceNoYckOQ?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/CybertimeUP-%E2%96%B6%20Subscribe!-blue" /></a>
+
 <!-- YOUTUBE:START -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=gS8DPe4LMVo)](https://www.youtube.com/watch?v=gS8DPe4LMVo)
+<!--
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=PUT_ID_YOUTUBE_VIDEO_HERE)](https://www.youtube.com/watch?v=PUT_ID_YOUTUBE_VIDEO_HERE)
+-->
 <!-- YOUTUBE:END -->
 	
 <br/><br/> 
@@ -532,13 +540,11 @@ _______________________________________________________________
 <br/>
   
 
-
 📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
 📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
 📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
 📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
 📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
-
 
 
  <br/><br/>
