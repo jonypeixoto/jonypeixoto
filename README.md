@@ -571,21 +571,26 @@ _______________________________________________________________
  </p>
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-## Support me
+## Support us
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
 <p align="center">
+  
   <a href="https://www.patreon.com/jonypeixoto" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-paypal.png"/>
-      <img width="18%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/QR-Code.png"/>
   </a>
 	
   <a href="https://www.buymeacoffee.com/jonypeixoto" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-buy-coffee.png"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
+      <img width="16%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/QR-Code.png"/>
   </a>
 </p>
 
