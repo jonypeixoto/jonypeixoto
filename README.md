@@ -285,6 +285,9 @@ _______________________________________________________________
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
+  <code><img alt="Markdown" height="30" width="100" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
   <code><img alt="CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
@@ -355,14 +358,14 @@ _______________________________________________________________
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 <code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
 <code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/web-hosting-96-1134923.png" alt="Domain And Hosting"/></code>
-<code><img height="32" src="https://upload-icon.s3.amazonaws.com/uploads/icons/png/18181230061536126577-64.png" alt="AWS"/></code>
-<code><img height="32" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="GraphQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png" alt="Docker"/></code>
-<code><img height="32" src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" alt="Redux"/></code>
-<code><img height="32" src="https://camo.githubusercontent.com/a830efd8c394a013f72dad6e7bf1e87f6c226503e69ce5858279b17e0521584c/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d6170616368652d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f6170616368652e7376673f73616e6974697a653d74727565" alt="Apache"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1200px-Nginx_logo.svg.png" alt="NGINX"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudlare"/></code>
+<code><img height="32" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></code>
+<code><img height="32" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></code>
+<code><img height="32" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></code>
+<code><img height="32" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></code>
+<code><img height="32" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></code>
 
  <br/><br/>
 
@@ -370,7 +373,7 @@ _______________________________________________________________
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
  <br/><br/>
 
@@ -385,7 +388,7 @@ _______________________________________________________________
 <code><img height="30" width="120" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/></code>
 <code><img height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canvas"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
-  <code><img height="32" src="https://download.logo.wine/logo/Google_Drive/Google_Drive-Logo.wine.png" alt="Drive Google"/></code>
+  <code><img height="32" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive Google"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
 <code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
@@ -446,7 +449,7 @@ _______________________________________________________________
   <code><img alt="Tails" height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)" /></code>
 </a>
 
-<br/>
+<br/><br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
 _______________________________________________________________
