@@ -357,7 +357,6 @@ _______________________________________________________________
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 <code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
-<code><img height="32" src="https://avatars1.githubusercontent.com/u/7454271?s=400&v=4" alt="DB Browser For SQLite"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudlare"/></code>
 <code><img height="32" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></code>
 <code><img height="32" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/></code>
@@ -369,7 +368,7 @@ _______________________________________________________________
 
  <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> Artificial Intelligence, Machine Learning & Internet of Things:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
 	
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 
