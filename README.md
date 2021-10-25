@@ -368,7 +368,12 @@ _______________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></code>
 
  <br/><br/>
+	
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="25vw" /> Artificial Intelligence, Machine Learning & Internet of Things:
+	
+<code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 
+ <br/><br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
 
@@ -489,7 +494,11 @@ _______________________________________________________________
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Jony%20Peixoto-%E2%96%B6%20Subscribe!-darkblue" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=gS8DPe4LMVo)](https://www.youtube.com/watch?v=gS8DPe4LMVo)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=LLej0QdEgao)](https://www.youtube.com/watch?v=LLej0QdEgao)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=jH3-R4VpTFU)](https://www.youtube.com/watch?v=jH3-R4VpTFU)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=sDhDs4JzFEo)](https://www.youtube.com/watch?v=sDhDs4JzFEo)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=J4JAKCtQo6c)](https://www.youtube.com/watch?v=J4JAKCtQo6c)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=0PFyNu7eC_g)](https://www.youtube.com/watch?v=0PFyNu7eC_g)<!-- YOUTUBE:END -->
 	
 <br/><br/> 
 	
