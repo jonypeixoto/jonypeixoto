@@ -241,7 +241,9 @@ ____________________________________
 <br/>
 	
  
-[![Jony's github activity graph](https://activity-graph.herokuapp.com/graph?username=jonypeixoto&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jony Peixoto's github activity graph](https://activity-graph.herokuapp.com/graph?username=JonyPeixoto&theme=dracula)](https://github.com/jonypeixoto/github-readme-activity-graph)
+
+
  
 <br/>
 	
@@ -468,7 +470,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/Handshake.gif" height="32px"> Social Medias 🆙
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Social Medias 🆙
 	
 <br/>
   
@@ -647,7 +649,7 @@ I created these images, feel free to use them.
 <p align="center">
   
  <a href="#" target="_blank">
-      <img width="18%" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+      <img width="16.5%" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
       <img width="18%" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
@@ -671,8 +673,8 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="16%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/QR-Code.png"/>
   </a>
-	
 </p>
+
 	
 </p>
 
