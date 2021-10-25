@@ -281,25 +281,72 @@ _______________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Applications Web/Mobile:
 
-<a href="https://www.twitch.tv/cybertimeup">
-  <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></code>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
 </a>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Saas"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="Less"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue js"/></code>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Typescript" height="30" width="100" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="PHP" height="30" width="100" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="SASS" height="30" width="100" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="SASS" height="30" width="100" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="LESS" height="30" width="100" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="ReactJS" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="React Native" height="30" width="100" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="JQuery" height="30" width="100" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="NodeJS" height="30" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Angular" height="30" width="100" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="VueJS" height="30" width="100" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="MongoDB" height="30" width="100" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Expo" height="30" width="100" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Flutter" height="30" width="100" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Android Studio" height="30" width="100" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></code>
+</a>
+
+
+
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Flutter"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png" alt="Android"/></code>
+
+
 <code><img height="32" src="https://miro.medium.com/max/500/1*ZmoALpPUfjbakRJ_-8vmCw.png" alt="Web RTC"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electronjs"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" alt="Nextjs"/></code>
@@ -476,7 +523,7 @@ _______________________________________________________________
 ### Other:
   
 <a href="https://www.fb.com/jonypeixotooficial">
-  <code><img alt="My Facebook" height="30" width="120" src="te" /></code>
+  <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></code>
 </a> 
 
 <a href="https://www.instagram.com/jonypeixoto">
