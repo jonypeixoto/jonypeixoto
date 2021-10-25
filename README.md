@@ -264,14 +264,13 @@ ________________________________________________________________
 
  🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
   
-  
- <br/>
+<br/>
   
 _______________________________________________________________
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🆙
 
- <br/>
+<br/>
   
 <br>
 
@@ -349,7 +348,7 @@ _______________________________________________________________
   <code><img alt="NextJS" height="30" width="100" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></code>
 </a>
 
- <br/><br/>
+<br/><br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
 
@@ -364,21 +363,22 @@ _______________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></code>
 <code><img height="32" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></code>
 
- <br/><br/>
+<br/><br/>
 	
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
 	
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
+<code><img height="32" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white" alt="Google Assistant"/></code>
+<code><img height="32" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white" alt="Amazon Alexa"/></code>
 
- <br/><br/>
+<br/><br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
- <br/><br/>
-
+<br/><br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Utilities/Productivity:
 
@@ -397,8 +397,7 @@ _______________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
 
- <br/> <br/>
-
+<br/> <br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> DevOps:
 
@@ -410,8 +409,7 @@ _______________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
 
- <br/> <br/>
-
+<br/> <br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Business Tools:
 
@@ -421,17 +419,19 @@ _______________________________________________________________
 <code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
- <br/> <br/>
-
+<br/> <br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Internet Searchers/Browsers:
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/duckduckgo-3-569238.png" alt="Duck Duck Go"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
+<code><img height="32" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" alt="Deep Web"/></code>
+<code><img height="32" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" alt="Duck Duck Go"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white" alt="Baidu"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white" alt="Bing"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo"/></code>
 
- <br/> <br/>
+<br/> <br/>
 
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Operational Systems:
@@ -621,25 +621,35 @@ _______________________________________________________________
 
  <br/><br/>
 
- ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  Total Profile Views: <br>
+ ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">   Total Profile Views: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jonypeixoto/count.svg"/>
  </p>
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-## Support us
+## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  Support us
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
 <p align="center">
   
+ <a href="#" target="_blank">
+      <img width="18%" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+      <img width="18%" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+  </a>
+
+<br/></br>
+
+<p align="center">
+
   <a href="https://www.patreon.com/jonypeixoto" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-paypal.png"/>
   </a>
-	
   <a href="https://www.buymeacoffee.com/jonypeixoto" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-buy-coffee.png"/>
   </a>
@@ -648,6 +658,9 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="16%" alt="Donate with Paypal" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/QR-Code.png"/>
   </a>
+	
+</p>
+	
 </p>
 
 
