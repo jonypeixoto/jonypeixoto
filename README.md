@@ -640,7 +640,7 @@ _______________________________________________________________
  </p>
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">   Support us
+## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">   Support Us
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
