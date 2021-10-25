@@ -339,6 +339,9 @@ _______________________________________________________________
   <code><img alt="Android Studio" height="30" width="100" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
+  <code><img alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
   <code><img alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></code>
 </a>
 
@@ -391,8 +394,7 @@ _______________________________________________________________
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmvZTqvHS8t2uo8WwEORGUa9sYXWwwp-AYQ&usqp=CAU" alt="Awesome Webpack"/></code>
 <code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" alt="Gulp"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-35-569289.png" alt="WordPress"/></code>
+<code><img height="32" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
 
  <br/> <br/>
@@ -400,13 +402,12 @@ _______________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> DevOps:
 
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime"/></code>
-<code><img height="32" src="https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2" alt="Intellij IDEA"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png" alt="PyCharm"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/1200px-Breezeicons-apps-48-codeblocks.svg.png" alt="Code Blocks"/></code>
+<code><img height="32" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>
+<code><img height="32" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
+<code><img height="32" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime"/></code>
+<code><img height="32" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij IDEA"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"/></code>
+<code><img height="32" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png" alt="VirtualBox"/></code>
 
  <br/> <br/>
