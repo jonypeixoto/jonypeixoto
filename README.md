@@ -303,9 +303,6 @@ _______________________________________________________________
   <code><img alt="SASS" height="30" width="100" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="SASS" height="30" width="100" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
-</a>
-<a href="https://www.jonypeixoto.com">
   <code><img alt="LESS" height="30" width="100" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
@@ -344,8 +341,6 @@ _______________________________________________________________
 <a href="https://www.jonypeixoto.com">
   <code><img alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></code>
 </a>
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="NextJS" height="30" width="100" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></code>
