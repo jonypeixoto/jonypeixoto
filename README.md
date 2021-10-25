@@ -284,22 +284,22 @@ _______________________________________________________________
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="Markdown" height="30" width="100" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></code>
+  <code><img alt="Markdown" height="30" width="120" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
   <code><img alt="CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="JavaScript" height="30" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+  <code><img alt="JavaScript" height="30" width="120" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="Typescript" height="30" width="100" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+  <code><img alt="Typescript" height="30" width="120" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+</a
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="PHP" height="30" width="80" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="PHP" height="30" width="100" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></code>
-</a>
-<a href="https://www.jonypeixoto.com">
-  <code><img alt="SASS" height="30" width="100" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
+  <code><img alt="SASS" height="30" width="80" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
   <code><img alt="LESS" height="30" width="100" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" /></code>
@@ -308,7 +308,7 @@ _______________________________________________________________
   <code><img alt="ReactJS" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="React Native" height="30" width="100" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
+  <code><img alt="React Native" height="30" width="120" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
   <code><img alt="JQuery" height="30" width="100" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></code>
@@ -335,13 +335,13 @@ _______________________________________________________________
   <code><img alt="Flutter" height="30" width="100" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="Android Studio" height="30" width="100" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></code>
+  <code><img alt="Android Studio" height="30" width="130" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
   <code><img alt="Kotlin" height="30" width="100" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="IOS" height="30" width="100" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></code>
+  <code><img alt="IOS" height="30" width="80" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></code>
 </a>
 
 <a href="https://www.jonypeixoto.com">
@@ -443,7 +443,7 @@ _______________________________________________________________
   <code><img alt="Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
-  <code><img alt="Kali Linux" height="30" width="100" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)" /></code>
+  <code><img alt="Kali Linux" height="30" width="80" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)" /></code>
 </a>
 <a href="https://www.jonypeixoto.com">
   <code><img alt="Tails" height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)" /></code>
