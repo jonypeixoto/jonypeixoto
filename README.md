@@ -419,7 +419,20 @@ _______________________________________________________________
 <code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
-<br/> <br/>
+<br/><br/>
+	
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Internet Searchers/Browsers:
+
+<code><img height="32" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera GX Gamer"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="Safari"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Tor"/></code>
+	
+<br/><br/>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="25vw" /> Internet Searchers/Browsers:
 
