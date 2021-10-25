@@ -435,7 +435,10 @@ _______________________________________________________________
 <!-- YOUTUBE:START -->
 [![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=0PFyNu7eC_g&t=117s)](https://www.youtube.com/watch?v=0PFyNu7eC_g&t=117s)
 [![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=J4JAKCtQo6c&t=1s)](https://www.youtube.com/watch?v=J4JAKCtQo6c&t=1s)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=sDhDs4JzFEo)](https://www.youtube.com/watch?v=sDhDs4JzFEo)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=sDhDs4JzFEo)](https://www.youtube.com/watch?v=sDhDs4JzFEo)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=LLej0QdEgao)](https://www.youtube.com/watch?v=LLej0QdEgao)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=jH3-R4VpTFU)](https://www.youtube.com/watch?v=jH3-R4VpTFU)
+<!-- YOUTUBE:END -->
 	
 <br/><br/> 
 	
