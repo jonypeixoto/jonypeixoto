@@ -268,7 +268,7 @@ ________________________________________________________________
   
 _______________________________________________________________
 
-## <img src="https://raw.githubusercontent.com/JonyPeixoto/jonypeixoto/master/Assets/Developer.gif" width=45 height=35> My Development Stack 🆙
+## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Development Stack 🆙
 
 <br/>
   
@@ -278,7 +278,7 @@ _______________________________________________________________
 
 <br>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Applications Web/Mobile:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Applications Web/Mobile:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
@@ -350,7 +350,7 @@ _______________________________________________________________
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 <code><img height="32" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" alt="Xampp"/></code>
@@ -365,7 +365,7 @@ _______________________________________________________________
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
 	
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white" alt="Google Assistant"/></code>
@@ -373,14 +373,14 @@ _______________________________________________________________
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Responsive Design:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Utilities/Productivity:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Utilities/Productivity:
 
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
 <code><img height="30" width="180" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="Adobe Photoshop"/></code>
@@ -421,7 +421,7 @@ _______________________________________________________________
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Browsers:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Browsers:
 
 <code><img height="32" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/></code>
@@ -434,7 +434,7 @@ _______________________________________________________________
 	
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Search Engines:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Search Engines:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
 <code><img height="32" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></code>
@@ -447,7 +447,7 @@ _______________________________________________________________
 <br/> <br/>
 
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/coin.gif" width="25vw" /> Operational Systems:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Operational Systems:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="Mac OS" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></code>
@@ -634,13 +634,13 @@ _______________________________________________________________
 
  <br/><br/>
 
- ## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/Earth.gif width="30">   Total Profile Views: <br>
+ ## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">    Total Profile Views: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jonypeixoto/count.svg"/>
  </p>
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/master/Assets/Earth.gif width="30">  Support us
+## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">   Support us
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
