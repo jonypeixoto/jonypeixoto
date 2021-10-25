@@ -470,7 +470,7 @@ _______________________________________________________________
 ### Other:
   
 <a href="https://www.fb.com/jonypeixotooficial">
-  <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></code>
+  <code><img alt="My Facebook" height="30" width="120" src="te" /></code>
 </a> 
 
 <a href="https://www.instagram.com/jonypeixoto">
