@@ -1,8 +1,8 @@
 name: Template Latest Youtube
 on:
   schedule:
-    # Runs at 08h00 on Sunday
-    - cron: '0 8 * * 0'
+    # Runs every minute
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-youtube-activity:
