@@ -649,10 +649,10 @@ I created these images, feel free to use them.
 <p align="center">
   
  <a href="#" target="_blank">
-      <img width="16.5%" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+      <img width="16.5%" alt="Bitcoin" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Bitcoin.svg"/>
   </a>
   <a href="#" target="_blank">
-      <img width="18%" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+      <img width="18%" alt="Ethereum" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Ethereum.svg"/>
   </a>
 
 <br/></br>
