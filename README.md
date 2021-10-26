@@ -20,7 +20,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p>
   Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
-  <b>Brazil. </b><br /><br />
+  <b>Brazil (UTC/GMT -03:00). </b><br /><br />
 </p>
 
 <br/><br/>
