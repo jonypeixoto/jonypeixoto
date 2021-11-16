@@ -505,7 +505,11 @@ _______________________________________________________________
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Jony%20Peixoto-%E2%96%B6%20Subscribe!-darkblue" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=gS8DPe4LMVo)](https://www.youtube.com/watch?v=gS8DPe4LMVo)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=LLej0QdEgao)](https://www.youtube.com/watch?v=LLej0QdEgao)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=jH3-R4VpTFU)](https://www.youtube.com/watch?v=jH3-R4VpTFU)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=sDhDs4JzFEo)](https://www.youtube.com/watch?v=sDhDs4JzFEo)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=J4JAKCtQo6c)](https://www.youtube.com/watch?v=J4JAKCtQo6c)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=0PFyNu7eC_g)](https://www.youtube.com/watch?v=0PFyNu7eC_g)<!-- YOUTUBE:END -->
 	
 <br/><br/> 
 	
