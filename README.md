@@ -448,7 +448,7 @@ _______________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white" alt="Bing"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo"/></code>
 
-<br/> <br/>
+<br/><br/>
 
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Operational Systems:
@@ -466,6 +466,17 @@ _______________________________________________________________
   <code><img alt="Tails" height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)" /></code>
 </a>
 
+<br/><br/>
+	
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Licensed By:
+
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="App Store" height="30" width="120" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
+</a>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Google Play" height="30" width="130" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></code>
+</a>
+	
 <br/><br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
