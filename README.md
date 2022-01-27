@@ -593,6 +593,10 @@ _______________________________________________________________
 <a href="https://behance.net/cybertimeup">
   <code><img alt="My BeHance" height="30" width="120" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></code>
 </a>
+	
+<a href="https://dev.to/jonypeixoto">
+  <code><img alt="My DEV.TO" height="30" width="100" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"/></code>
+</a>
 
 <a href="https://g.page/cybertimeup?gm">
   <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
