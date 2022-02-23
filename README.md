@@ -63,7 +63,6 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <hr />
 <h3>💻 Atividade atual</h3>
 ☑️ Buscando expansão de negócios para o <a href="http://cybertimeup.com.br" target="_blank">CybertimeUP</a><br />
-☑️ Procurando parcerias na plataforma <a href="https://x-code.io" target="_blank">X-Code</a><br />
 ☑️ Buscando novas experiências em vídeos com automação, machine learning e internet das coisas com a <a href="https://experiencevideos.io" target="_blank">Experience Videos</a><br />
 ☑️ Criando conteúdo sobre Inovação e Programação aplicados a engenharia da vida<br />
 ☑️ Aplicando e aprendendo exponencialmente novas estratégias de Marketing<br />
@@ -99,7 +98,6 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <hr />
 <h3>💻 當前活動</h3>
 ☑️ 尋求業務擴展 <a href="http://cybertimeup.com.br" target="_blank">CybertimeUP</a><br />
-☑️ 在平台上尋找合作夥伴 <a href="https://x-code.io" target="_blank">X-Code</a><br />
 ☑️ 通過自動化、機器學習和物聯網尋求新的視頻體驗 <a href="https://experiencevideos.io" target="_blank">Experience Videos</a><br />
 ☑️ 創建有關生命工程應用的創新和編程內容<br />
 ☑️ 以指數方式應用和學習新的營銷策略<br />
@@ -135,7 +133,6 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <h />
 <h3> 💻 Actividad actual </h3>
 ☑️ Buscando expansión comercial para <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
-☑️ Buscando asociaciones en la <a href="https://x-code.io" target="_blank"> X-Code </a> <br />
 ☑️ Buscando nuevas experiencias de video con automatización, aprendizaje automático e Internet de las cosas con <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
 ☑️ Creación de contenido sobre Innovación y Programación aplicada a la ingeniería de vida <br />
 ☑️ Aplicar y aprender exponencialmente nuevas estrategias de marketing <br />
@@ -169,7 +166,6 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <br /> <br />
 <h3> 💻 Текущая активность </h3>
 ☑️ Стремление к расширению бизнеса для <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
-☑️ Ищете партнерские отношения на <a href="https://x-code.io" target="_blank"> X-Code </a> <br />
 ☑️ Поиск новых впечатлений от видео с помощью автоматизации, машинного обучения и Интернета вещей с помощью <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
 ☑️ Создание материалов по инновациям и программированию в сфере инженерии жизни <br />
 ☑️ Экспоненциальное применение и изучение новых маркетинговых стратегий <br />
@@ -206,7 +202,6 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <h3> 💻 النشاط الحالي </ h3>
 <br/><br/>
 ☑️ السعي لتوسيع الأعمال التجارية من أجل <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
-☑️ البحث عن شراكات على <a href="https://x-code.io" target="_blank"> النظام الأساسي لـ X-Code </a> <br />
 ☑️ البحث عن تجارب فيديو جديدة مع التشغيل الآلي والتعلم الآلي وإنترنت الأشياء باستخدام <a href="https://experiencevuable.io" target="_blank"> مقاطع فيديو التجربة </a> <br />
 إنشاء محتوى عن الابتكار والبرمجة المطبق على هندسة الحياة <br />
 ☑️ تطبيق استراتيجيات التسويق الجديدة وتعلمها بشكل كبير
@@ -490,7 +485,7 @@ _______________________________________________________________
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Meet our Projects:
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io) [![Alfa Code](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/alfa_code_banner.png)](https://www.alfacode.com.br) [![X-Code - Marketplace Platform App using AI](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/X_Code_banner.png)](https://www.x-code.io)   
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io) [![Alfa Code](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/alfa_code_banner.png)](https://www.alfacode.com.br) 
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site: <a href="https://www.jonypeixoto.com">
   <code>
