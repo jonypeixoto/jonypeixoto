@@ -512,10 +512,12 @@ _______________________________________________________________
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Jony%20Peixoto-%E2%96%B6%20Subscribe!-darkblue" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=usGwxMgDewc)](https://www.youtube.com/watch?v=usGwxMgDewc)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=3JTBbKGJtcI)](https://www.youtube.com/watch?v=3JTBbKGJtcI)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=Y_1o95RLVfU)](https://www.youtube.com/watch?v=Y_1o95RLVfU)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=gS8DPe4LMVo)](https://www.youtube.com/watch?v=gS8DPe4LMVo)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=mwUf8g1jixc)](https://www.youtube.com/watch?v=mwUf8g1jixc)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=rX2lD9m0l1U)](https://www.youtube.com/watch?v=rX2lD9m0l1U)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=FfZlLgglz1c)](https://www.youtube.com/watch?v=FfZlLgglz1c)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=QOIEkxNLmVY)](https://www.youtube.com/watch?v=QOIEkxNLmVY)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=DY0G00skZXY)](https://www.youtube.com/watch?v=DY0G00skZXY)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=PypeHWycRaU)](https://www.youtube.com/watch?v=PypeHWycRaU)<!-- YOUTUBE:END -->
 	
 <br/><br/> 
 	
