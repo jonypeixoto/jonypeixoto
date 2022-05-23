@@ -267,7 +267,7 @@ ________________________________________________________________
   
 _______________________________________________________________
 
-## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Development Stack 🆙
+## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Stack Development🆙
 
 <br/>
   
@@ -277,7 +277,7 @@ _______________________________________________________________
 
 <br>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Applications Web/Mobile:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Web/Mobile Applications:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
