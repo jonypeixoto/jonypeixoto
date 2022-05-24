@@ -511,12 +511,12 @@ _______________________________________________________________
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg?sub_confirmation=1"><img title="Subscribe" src="https://img.shields.io/badge/Jony%20Peixoto-%E2%96%B6%20Subscribe!-darkblue" /></a>
 
 <!-- YOUTUBE:START -->
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=eg7qTLkWy8A)](https://www.youtube.com/watch?v=eg7qTLkWy8A)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=2uIOb1cnmeQ)](https://www.youtube.com/watch?v=2uIOb1cnmeQ)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=1LKud-jx3zw)](https://www.youtube.com/watch?v=1LKud-jx3zw)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=zPuCz1yZNME)](https://www.youtube.com/watch?v=zPuCz1yZNME)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=usGwxMgDewc)](https://www.youtube.com/watch?v=usGwxMgDewc)
-[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCMvZcsy7iN1Js9ceNoYckOQ&videoId=3JTBbKGJtcI)](https://www.youtube.com/watch?v=3JTBbKGJtcI)<!-- YOUTUBE:END -->
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=i5h2R2eCL5c)](https://www.youtube.com/watch?v=i5h2R2eCL5c)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=xPwQu_b0e30)](https://www.youtube.com/watch?v=xPwQu_b0e30)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=gb3n9FUUL2Q)](https://www.youtube.com/watch?v=gb3n9FUUL2Q)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=rX2lD9m0l1U)](https://www.youtube.com/watch?v=rX2lD9m0l1U)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=FfZlLgglz1c)](https://www.youtube.com/watch?v=FfZlLgglz1c)
+[![](https://youtube-thumbnail-retriever-sigma.vercel.app/api/youtube-thumbnail/?channelId=UCSFnwMHTzE-hGj7cQ6BCoFg&videoId=QOIEkxNLmVY)](https://www.youtube.com/watch?v=QOIEkxNLmVY)<!-- YOUTUBE:END -->
 	
 <br/><br/> 
 	
