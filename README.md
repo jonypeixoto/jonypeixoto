@@ -277,7 +277,7 @@ _______________________________________________________________
 
 <br>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Blockchain Applications:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Blockchain Applications:
 
 <a href="https://docs.soliditylang.org" target="_blank">
   <code><img alt="Solidity" height="30" width="100" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /></code>
@@ -289,7 +289,7 @@ _______________________________________________________________
   <code><img alt="Bitcoin" height="30" width="100" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /></code>
 </a>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Web/Mobile Applications:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web/Mobile Applications:
 
 <a href="https://w3schools.com/html" target="_blank">
   <code><img alt="HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
@@ -378,7 +378,7 @@ _______________________________________________________________
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Database, Server, Domain and Hosting:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Database, Server, Domain and Hosting:
 
 <a href="https://jonypeixoto.com">
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
@@ -397,7 +397,7 @@ _______________________________________________________________
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" />  Artificial Intelligence, Machine Learning & Internet of Things:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 />  Artificial Intelligence, Machine Learning & Internet of Things:
 	
 <code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></code>
@@ -407,14 +407,14 @@ _______________________________________________________________
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Responsive Design:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Responsive Design:
 
 <code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
 <code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Design, Utilities & Productivity:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Design, Utilities & Productivity:
 
 <code><img height="30" width="130" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></code>
 <code><img height="30" width="190" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud"/></code>
@@ -436,7 +436,7 @@ _______________________________________________________________
 
 <br/> <br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> DevOps:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> DevOps:
 
 <code><img height="32" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>
 <code><img height="32" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
@@ -448,7 +448,7 @@ _______________________________________________________________
 
 <br/> <br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Business Tools:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Business Tools:
 
 <code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
@@ -457,7 +457,7 @@ _______________________________________________________________
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Browsers:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Browsers:
 
 <code><img height="32" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" alt="Vivaldi"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/></code>
@@ -470,7 +470,7 @@ _______________________________________________________________
 	
 <br/><br/>
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Search Engines:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Search Engines:
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Startpage.com_logo.svg/1280px-Startpage.com_logo.svg.png" alt="Start Page"/></code>
 <code><img height="32" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></code>
@@ -483,7 +483,7 @@ _______________________________________________________________
 <br/><br/>
 
 
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Operational Systems:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Operational Systems:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="Mac OS" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></code>
@@ -503,7 +503,7 @@ _______________________________________________________________
 
 <br/><br/>
 	
-### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width="25vw" /> Mobile Apps Licensed By:
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Mobile Apps Licensed By:
 
 <a href="https://www.jonypeixoto.com">
   <code><img alt="App Store" height="30" width="120" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
@@ -518,16 +518,16 @@ _______________________________________________________________
 _______________________________________________________________
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Have a Coffee? Connect With Me!<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Social Medias 🆙
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=45 height=35 > Let's Have a Coffee? Connect With Me!<img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Social Medias 🆙
 	
 <br/>
   
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Meet our Projects:
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
 [![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io) [![Alfa Code](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/alfa_code_banner.png)](https://www.alfacode.com.br) 
     
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width="28px" /> Our Site: <a href="https://www.jonypeixoto.com">
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com">
   <code>
     <br />
     <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
@@ -571,7 +571,7 @@ _______________________________________________________________
 <br/><br/> 
 
 
-### Digital Nomad Group:
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Digital Nomad Group:
 
 <a href="https://nomadlist.com/@jonypeixoto">
   <code><img alt="My NomadList" height="30" width="110" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></code>
@@ -579,7 +579,7 @@ _______________________________________________________________
 	
 <br/><br/>
   
-### Groups: 
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Groups: 
   
 <a href="https://www.t.me/cybertimeup">
   <code><img alt="My Telegram" height="30" width="120" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></code>
@@ -591,7 +591,7 @@ _______________________________________________________________
 	
 <br/><br/>
   
-### Other:
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Handshake.gif" height="32px"> Other:
   
 <a href="https://www.fb.com/jonypeixotooficial">
   <code><img alt="My Facebook" height="30" width="120" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></code>
