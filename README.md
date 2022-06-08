@@ -683,10 +683,6 @@ _______________________________________________________________
     <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
-<br/></br>
-  
-📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
-
  <br/><br/>
 
  ## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">    Total Profile Views: <br>
