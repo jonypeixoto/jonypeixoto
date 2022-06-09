@@ -636,32 +636,41 @@ _______________________________________________________________
 <a href="https://g.page/cybertimeup?gm">
   <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
 </a> 
-
+	
 <br/><br/>
 
 <a href="https://www.twitter.com/peixotojony">
   <code><img alt="My Twitter" height="30" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></code>
 </a> 
 
-![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=OJonyPeixoto)
-
-<br/>
-  
+<br/><br/>
+	
 ### 🎶 Sound 🆙
 	
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg">
   <code><img alt="My YouTube Music" height="30" width="150" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /></code>
 </a>
-
+	
 <br/><br/>
-  
+	
 <a href="https://www.jonypeixoto.com">
   <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
 </a>
-  
-![Jony Peixoto Playlist](https://spotify-recently-played-readme.vercel.app/api?user=vlfntxg16c6vmvicviub6scvf)
+
+<br/><br/>
+	
+<a href="https://jonypeixoto.com/twitter">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vlfntxg16c6vmvicviub6scvf" />
+</a>
+
+<br/><br/>
+
+<a href="https://jonypeixoto.com/github">
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=peixotojony&layout=wide&show_reply=off&show_retweet=off" />
+</a>
   
 <br/><br/>
+
 
 ## 📝My Latest Posts On CybertimeUP's Blog 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
