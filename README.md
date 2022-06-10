@@ -264,8 +264,35 @@ ________________________________________________________________
  🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
   
 <br/>
-  
 _______________________________________________________________
+	
+## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Latest Stacks Development🆙
+	
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web 3.0:
+
+<a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank">
+  <code><img alt="Web3-JS" height="30" width="100" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />     </code>
+</a>
+	
+<a href="https://ethereum.org" target="_blank">
+  <code><img alt="Ethereum" height="30" width="100" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></code>
+</a>
+	
+<a href="https://www.python.org" target="_blank">
+<code><img height="32" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></code>
+</a>
+	
+<a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank">
+<code><img height="30" width="190" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects"/></code>
+</a>
+
+<a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank">
+<code><img height="30" width="190" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" alt="Adobe Premiere"/></code>
+</a>
+	
+<br/>
+______________________________________________________________________________________________________________________________
+	
 
 ## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Stack Development🆙
 
@@ -276,6 +303,8 @@ _______________________________________________________________
 <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
+	
+</br>
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Blockchain Applications:
 
