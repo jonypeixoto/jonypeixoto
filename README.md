@@ -269,10 +269,6 @@ _______________________________________________________________
 ## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Latest Stacks Development🆙
 	
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web 3.0:
-
-<a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank">
-  <code><img alt="Web3-JS" height="30" width="100" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />     </code>
-</a>
 	
 <a href="https://ethereum.org" target="_blank">
   <code><img alt="Ethereum" height="30" width="100" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></code>
