@@ -261,7 +261,7 @@ ________________________________________________________________
 
  🌱 I'm An [Eternal Programming Student](https://www.jonypeixoto.com); 
 
- 🏆 My Favorite Challenge Is [CS50x Harvard University](https://www.cs50.harvard.edu/x/2021/).
+ 🏆 My Favorite Challenge Is Decode the Kingdom From Eternal Codes.
   
 <br/>
 _______________________________________________________________
