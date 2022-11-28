@@ -255,7 +255,7 @@ ________________________________________________________________
 
   
 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO, </br>
-[Alfa Code](https://www.alfacode.com.br), [Experience Media](https://www.experiencemedia.io) & [Experience Videos](https://www.experiencevideos.io) - Co-Founder;
+[Experience Media](https://www.experiencemedia.io) & [Experience Videos](https://www.experiencevideos.io) - Co-Founder;
 
  ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com/youtube) :wink:;
 
@@ -550,7 +550,7 @@ _______________________________________________________________
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io) [![Alfa Code](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/alfa_code_banner.png)](https://www.alfacode.com.br) 
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com">
   <code>
