@@ -18,7 +18,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 ### Welcome... <br/> <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Jony's World!
 <p>
-  Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
+  Yeahhh... Programming since 7 years old! <br/><br/> 3D Engineer And Computing Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil (UTC/GMT -03:00). </b><br /><br />
   <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Let's have coffee?
@@ -41,7 +41,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <br />
 <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
-Programador Full-Stack, Engenheiro e Startupeiro. Eu curto de codar, criar novas engenhosidades e sentir a adrenalina de treinar. Solteiro, por enquanto :)
+Programador Full-Stack, Engenheiro 3D e Startupeiro. Eu curto de codar, criar novas engenhosidades e sentir a adrenalina de treinar. Solteiro, por enquanto :)
 <br /><br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
@@ -63,7 +63,7 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 <hr />
 <h3>💻 Atividade atual</h3>
 ☑️ Buscando expansão de negócios para o <a href="http://cybertimeup.com.br" target="_blank">CybertimeUP</a><br />
-☑️ Buscando novas experiências em vídeos com automação, machine learning e internet das coisas com a <a href="https://experiencevideos.io" target="_blank">Experience Videos</a><br />
+☑️ Buscando novas experiências em vídeos e marcas com a <a href="https://experiencemedia.io" target="_blank">Experience Media</a><br />
 ☑️ Criando conteúdo sobre Inovação e Programação aplicados a engenharia da vida<br />
 ☑️ Aplicando e aprendendo exponencialmente novas estratégias de Marketing<br />
 <br />
@@ -133,7 +133,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <h />
 <h3> 💻 Actividad actual </h3>
 ☑️ Buscando expansión comercial para <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
-☑️ Buscando nuevas experiencias de video con automatización, aprendizaje automático e Internet de las cosas con <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
+☑️ Buscando nuevas experiencias de video con automatización, aprendizaje automático e Internet de las cosas con <a href="https://experiencemedia.io" target="_blank"> Experience Videos </a> <br />
 ☑️ Creación de contenido sobre Innovación y Programación aplicada a la ingeniería de vida <br />
 ☑️ Aplicar y aprender exponencialmente nuevas estrategias de marketing <br />
 <br />
@@ -166,7 +166,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 <br /> <br />
 <h3> 💻 Текущая активность </h3>
 ☑️ Стремление к расширению бизнеса для <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
-☑️ Поиск новых впечатлений от видео с помощью автоматизации, машинного обучения и Интернета вещей с помощью <a href="https://experiencevideos.io" target="_blank"> Experience Videos </a> <br />
+☑️ Поиск новых впечатлений от видео с помощью автоматизации, машинного обучения и Интернета вещей с помощью <a href="https://experiencemedia.io" target="_blank"> Experience Videos </a> <br />
 ☑️ Создание материалов по инновациям и программированию в сфере инженерии жизни <br />
 ☑️ Экспоненциальное применение и изучение новых маркетинговых стратегий <br />
 <br />
@@ -255,7 +255,7 @@ ________________________________________________________________
 
   
 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO, </br>
-[Experience Media](https://www.experiencemedia.io) & [Experience Videos](https://www.experiencevideos.io) - Co-Founder;
+[Experience Media](https://www.experiencemedia.io) & [Experience Videos](https://www.experiencemedia.io) - Co-Founder;
 
  ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com/youtube) :wink:;
 
@@ -550,7 +550,7 @@ _______________________________________________________________
 ### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencemedia.io)
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com">
   <code>
