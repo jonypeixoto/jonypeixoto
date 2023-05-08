@@ -18,11 +18,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 ### Welcome... <br/> <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Jony's World!
 <p>
-  Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
+  Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil (UTC/GMT -03:00). </b><br /><br />
   <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Let's have coffee?
 </p>
+
+<p>Here, you'll find 100+ projects on web 2 & web 3</p>
 
 <br/><br/>
 
