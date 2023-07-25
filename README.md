@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/jonypeixoto/jonypeixoto/assets/63617830/c16da384-1ac3-4a64-94ae-462e7088e99e)<p align="center">
   <img src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/header-github.gif" alt="Hey, I'm Jony !">
 </p>
 
@@ -421,6 +421,24 @@ ________________________________________________________________________________
 <code><img height="32" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></code>
 <code><img height="32" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></code>
 <code><img height="32" alt="MongoDB"  width="100" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></code>
+
+<br/><br/>
+
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Gaming:
+
+<code><img height="32" src="https://th.bing.com/th/id/OIP.x3aLoAGtkZ_QHnCRIoU7bwHaEJ?pid=ImgDet&rs=1" alt="Java"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></code>
+<code><img height="32" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></code>
+<code><img height="32" src="https://th.bing.com/th/id/OIP.wB2OFtf9zuvnBrRYTjP4twKFBg?pid=ImgDet&rs=1" alt="GameMaker Studio"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot Game Engine"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" alt="Origin"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></code>
+<code><img height="32" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></code>
+<code><img height="32" src="https://www.kindpng.com/picc/m/196-1965832_sony-playstation-network-logo-hd-png-download.png" alt="Playstation Store"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox Store"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games"/></code>
 
 <br/><br/>
 	
