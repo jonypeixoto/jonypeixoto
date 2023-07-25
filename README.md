@@ -269,6 +269,104 @@ ________________________________________________________________
 _______________________________________________________________
 	
 ## <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Developer.gif" width=45 height=35> My Latest Stacks Development🆙
+
+### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Gaming:
+
+<a href="https://java.com" target="_blank">
+  <code><img alt="Java" height="32" src="https://www.ekkais.com/assets/img/stacks/java.png" /></code>
+</a>
+
+<a href="https://unrealengine.com" target="_blank">
+  <code><img alt="Unreal Engine" height="32" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /></code>
+</a>
+
+<a href="https://unity.com" target="_blank">
+  <code><img alt="Unity" height="32" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></code>
+</a>
+
+<a href="https://gamemaker.io" target="_blank">
+  <code><img alt="GameMaker Studio" height="32" src="https://th.bing.com/th/id/OIP.yJoXT7mlt9hJAZEVRc-kRQHaCe?pid=ImgDet&w=768&h=256&rs=1" /></code>
+</a>
+
+<a href="https://blender.org" target="_blank">
+  <code><img alt="Blender" height="32" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></code>
+</a>
+
+<a href="https://getpaint.net/index.html" target="_blank">
+  <code><img alt="Paint.net" height="32" src="https://krispitech.com/wp-content/uploads/2020/04/paintnet.png" /></code>
+</a>
+
+<a href="https://aseprite.org" target="_blank">
+  <code><img alt="Aseprite" height="32" src="https://th.bing.com/th/id/R.0b4e09187cfb7756de3cbbca01b0debb?rik=LmYKI8u5ql8RtA&pid=ImgRaw&r=0" /></code>
+</a>
+
+<a href="https://gimp.org" target="_blank">
+  <code><img alt="Gimp" height="32" src="https://th.bing.com/th/id/OIP.6dtlPYPA0ZRJoJRvLgX94gAAAA?pid=ImgDet&w=474&h=266&rs=1" /></code>
+</a>
+
+<a href="https://godotengine.org" target="_blank">
+  <code><img alt="Godot Game Engine" height="32" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /></code>
+</a>
+
+<a href="https://xbox.com/en/microsoft-store" target="_blank">
+  <code><img alt="Xbox Store" height="32" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></code>
+</a>
+
+<a href="https://steam.com" target="_blank">
+  <code><img alt="Steam" height="32" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></code>
+</a>
+
+<a href="https://origin.com" target="_blank">
+  <code><img alt="Origin" height="32" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" /></code>
+</a>
+
+<a href="https://play.google.com" target="_blank">
+  <code><img alt="Google Play" height="32" src="https://th.bing.com/th/id/OIP.JzO8lA8j34iXDZ0eGO9QdgHaBd?pid=ImgDet&w=850&h=167&rs=1" /></code>
+</a>
+
+<a href="https://apple.com/en/app-store" target="_blank">
+  <code><img alt="App Store" height="32" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
+</a>
+
+<a href="https://store.playstation.com" target="_blank">
+  <code><img alt="" height="32" src="https://cdn.vox-cdn.com/thumbor/liWe2bHm7pW3shlzE3JyJHdPMlI=/0x0:1800x1249/1200x800/filters:focal(756x481:1044x769)/cdn.vox-cdn.com/uploads/chorus_image/image/63331756/psstore.0.jpg" /></code>
+</a>
+
+<a href="https://itch.io" target="_blank">
+  <code><img alt="itch.io" height="32" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></code>
+</a>
+
+<a href="https://libgdx.com" target="_blank">
+  <code><img alt="LibGDX" height="32" src="http://2.bp.blogspot.com/-qZFa0wq2_CE/U6qGW471U4I/AAAAAAAAFlE/uJq97LSRaLg/s1600/libgdx.jpg" /></code>
+</a>
+
+<a href="https://construct.net" target="_blank">
+  <code><img alt="Construct" height="32" src="https://gamedevworks.com/wp-content/uploads/2020/11/construct-3-logo.jpg" /></code>
+</a>
+
+<a href="https://pyxeledit.com" target="_blank">
+  <code><img alt="Pyxel Edit" height="32" src="https://th.bing.com/th/id/R.09349e83dc07875dc3d5ab1ae856bced?rik=Wrudb%2b5P0Rqyag&pid=ImgRaw&r=0" /></code>
+</a>
+
+<a href="https://lospec.com" target="_blank">
+  <code><img alt="Lospec" height="32" src="https://th.bing.com/th/id/OIP.FwtX6CsCmhmHaAAggoaeHAHaDt?pid=ImgDet&w=1200&h=600&rs=1" /></code>
+</a>
+
+<a href="https://eclipse.org" target="_blank">
+  <code><img alt="Eclipse" height="32" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /></code>
+</a>
+
+<a href="https://dragonbones.github.io/en/index.html" target="_blank">
+  <code><img alt="DragonBones" height="32" src="https://th.bing.com/th/id/R.819ad1821efa64a2978e52bf19db555a?rik=Kovt7EIkW60ddQ&pid=ImgRaw&r=0" /></code>
+</a>
+
+<a href="https://inkscape.org" target="_blank">
+  <code><img alt="Inkscape" height="32" src="https://th.bing.com/th/id/OIP.5HssWi2QZ8GhVFSge6AjmwAAAA?pid=ImgDet&rs=1" /></code>
+</a>
+
+<a href="https://piskelapp.com" target="_blank">
+  <code><img alt="Piskel" height="32" src="https://www.svsh.dk/wp-content/uploads/2017/11/Piskel-logo.png" /></code>
+</a>
 	
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web 3.0:
 	
