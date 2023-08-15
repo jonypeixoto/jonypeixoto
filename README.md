@@ -219,10 +219,7 @@ ____________________________________
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🆙
 
-[![MasterHead](https://developers.giphy.com/branch/master/static/GIF-api.gif)](https://rishavchanda.io)
-
-
-![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
+![MasterHead](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/GIF-api.gif)
 
 
 <div align="center">
@@ -654,9 +651,7 @@ _______________________________________________________________
 [![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com">
-  <code>
-    <br />
-    <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+  <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
   
 <br/><br/>
@@ -791,13 +786,6 @@ _______________________________________________________________
 
 <br/><br/>
 
-<a href="https://jonypeixoto.com/github">
-<img width="500em" src="https://github-readme-twitter.gazf.vercel.app/api?id=peixotojony&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-  
-<br/><br/>
-
-
 ## 📝My Latest Posts On CybertimeUP's Blog 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
 </a>
@@ -813,12 +801,10 @@ _______________________________________________________________
 <br/><br/>
 	
 ## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://blog.jonypeixoto.com" target="_blank">
-  <code>
-    <br/><br/>
-    <img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+  <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
- <br/><br/>
+ <br/>
 
  ## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">    Total Profile Views: <br>
  <p align="center"> 
