@@ -33,7 +33,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </p>
 
 <br/>
-<h2>⚠️🚫 SECRET DOCUMENT BELOW, DO NOT CLICK! 🚫⚠️</h2>
+<h1>⚠️🚫 SECRET DOCUMENT BELOW, DO NOT CLICK! </h1>
 <br/>
 <details>
 
