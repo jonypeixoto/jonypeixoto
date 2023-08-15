@@ -18,7 +18,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
