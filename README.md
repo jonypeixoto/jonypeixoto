@@ -32,6 +32,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img width="70" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/attention_blob.gif" alt="Attention emoji" />
 </p>
 
+<br/>
+<h2>⚠️🚫 SECRET DOCUMENT BELOW, DO NOT CLICK! 🚫⚠️</h2>
+<br/>
+<details>
+
 # Summary:
 
 ## If you don't speak english...
@@ -880,9 +885,9 @@ I created these images, feel free to use them.
   </a>
 </p>
 
-
-	
 </p>
+
+</details>
 
 
 
