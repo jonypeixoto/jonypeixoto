@@ -60,7 +60,7 @@ Ao perceber os "influenciadores" de Engenharia e tecnologia, é possível perceb
 Eu busco construir soluções estratégicas por e para engenheiro, que possam potencialmente impactar a forma com que trabalhamos. E me divertir no processo. 😁
 <br />
 <br />
-<i>Ei, você é um engenheiro interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um hey? Envie uma mensagem para <a href="mailto:me@jonypeixoto.com">me@jonypeixoto.com</a></i> 😉
+<i>Ei, você é um engenheiro interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um hey? Envie uma mensagem para <a href="mailto:me@jonypeixoto.com">info@jonypeixoto.com</a></i> 😉
 <br /><br />
 <hr />
 <h3>💻 Atividade atual</h3>
@@ -219,6 +219,7 @@ ____________________________________
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Code Activities 🆙
 
+[![MasterHead](https://developers.giphy.com/branch/master/static/GIF-api.gif)](https://rishavchanda.io)
 
 
 ![Snake animation](https://github.com/jonypeixoto/jonypeixoto/blob/output/github-contribution-grid-snake.svg)
