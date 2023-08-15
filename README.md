@@ -237,7 +237,7 @@ ____________________________________
 <br/>
 	
  
-[![Jony Peixoto's github activity graph](https://activity-graph.herokuapp.com/graph?username=JonyPeixoto&theme=dracula)](https://github.com/jonypeixoto/github-readme-activity-graph)
+
 
 
  
@@ -638,6 +638,38 @@ ________________________________________________________________________________
 <br/><br/>
 
 ![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/wow.png)  
+_______________________________________________________________
+
+Get it once and for all: 1st remote job anywhere in the world.
+
+Forget spending hours and hours searching for companies on Google, Bing and opportunities that offer remote work...
+_______________________________________________________________
+
+![](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/digital-job.jpg)  
+
+<br/>
+
+_______________________________________________________________
+
+<br/>
+
+Just search the search engines (Google, Bing etc) as follows, using the words: "remote job" + company name (listed in the AVAILABLE AND SECRET DOCUMENT at PDF - available at the link below)"
+
+🤘 Hey, my name is... Jony! Jony here!
+
+Check it out on this link, 👉 [134% FREE](https://jonypeixoto.gumroad.com/l/RemoteJobsAroundTheWorld)
+
+<br/>
+
+I created a SECRET PDF document that reveals names of companies that allow remote work and pay in euros/dollars, suitable for both desktop and mobile devices 🖥 📱
+(I suggest you rotate them on your desktop device, it's faster 😉)
+
+<br/>
+
+Make an extraordinary day and look for me telling about your application and prosperity!
+
+</br>
+
 _______________________________________________________________
 
 
