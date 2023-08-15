@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 # <img width="70" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /> Hey! What's UP? 
 
-<h2>🐍 Watch my contribution graph eaten by the snake</h2>
+<p>🐍 Watch my contribution graph eaten by the snake</p>
 
 <div align="center">
 
