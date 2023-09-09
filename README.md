@@ -25,25 +25,22 @@ Then i save result to [assets/github.gif](assets/github.gif)
   Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
   <b>Brazil (UTC/GMT -03:00). </b><br /><br />
-  <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Let's have coffee?
 </p>
+<br/><br/>
 
 <br/><br/>
+  <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Let's have coffee?
 
 <p>
   <img width="70" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/attention_blob.gif" alt="Attention emoji" />
 </p>
 
 <br/>
-<h1>⚠️🚫 SECRET DOCUMENT BELOW, DO NOT CLICK! </h1>
 <br/>
-<details>
 
 # Summary:
-
 ## If you don't speak english...
 
-<details>
    <summary>
 	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
    </summary>
@@ -889,7 +886,6 @@ I created these images, feel free to use them.
 
 </p>
 
-</details>
 
 
 
