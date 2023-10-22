@@ -369,6 +369,14 @@ _______________________________________________________________
 <a href="https://piskelapp.com" target="_blank">
   <code><img alt="Piskel" height="32" src="https://www.svsh.dk/wp-content/uploads/2017/11/Piskel-logo.png" /></code>
 </a>
+
+<a href="https://jonypeixoto.com" target="_blank">
+  <code><img alt="Marketing for Games" height="32" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/marketing-for-games.png" /></code>
+</a>
+
+<a href="https://jonypeixoto.com" target="_blank">
+  <code><img alt="Audio for Games" height="32" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/audio-for-games.png" /></code>
+</a>
 	
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Web 3.0:
 	
