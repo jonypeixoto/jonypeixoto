@@ -319,11 +319,11 @@ _______________________________________________________________
 </a>
 
 <a href="https://origin.com" target="_blank">
-  <code><img alt="Origin" height="32" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" /></code>
+  <code><img alt="Origin" height="32" src="https://img.shields.io/badge/Origin-FFFFFF?style=for-the-badge&logo=origin" /></code>
 </a>
 
-<a href="https://play.google.com" target="_blank">
-  <code><img alt="Google Play" height="32" src="https://th.bing.com/th/id/OIP.JzO8lA8j34iXDZ0eGO9QdgHaBd?pid=ImgDet&w=850&h=167&rs=1" /></code>
+<a href="https://www.jonypeixoto.com">
+  <code><img alt="Google Play" height="30" width="130" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></code>
 </a>
 
 <a href="https://apple.com/en/app-store" target="_blank">
