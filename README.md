@@ -36,6 +36,10 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </p>
 
 <br/>
+
+📝 See my [Curriculum Vitae](https://jonypeixoto.github.io/Jony%20Peixoto%20-%20CV.pdf) to get more info.
+
+<br/>
 <br/>
 
 # Summary:
