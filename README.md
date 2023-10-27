@@ -22,9 +22,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 ### Welcome... <br/> <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Jony's World!
 <p>
-  Yeahhh... Programming since 7 years old! <br/><br/> Motion Programmer And Computing and Software Engineer From 
+  Yeahhh... Programming since 7 years old! <br/><br/> Business Man, Engineer Programmer And Computing and Software Engineer From 
   <img width="17" src="https://cdn-icons-png.flaticon.com/512/206/206597.png" alt="Brazil" />
-  <b>Brazil (UTC/GMT -03:00). </b><br /><br />
+  <b>Brazil (UTC/GMT -03:00) </b>To The World 🌎<br /><br />
 </p>
 <br/><br/>
 
@@ -49,17 +49,17 @@ Then i save result to [assets/github.gif](assets/github.gif)
 	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
    </summary>
 <br />
-<a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<a href="https://jonypeixoto.com.br"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
 Programador Full-Stack, Engenheiro e Startupeiro. Eu curto de codar, criar novas engenhosidades e sentir a adrenalina de treinar. Solteiro, por enquanto :)
 <br /><br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com.br"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/JonyPeixotoReal"><img title="Twitter" src="https://img.shields.io/badge/@JonyPeixotoReal-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonypeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonypeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@cybertimeup.com"><img title="Email" src="https://img.shields.io/badge/info@cybertimeup.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
 Ao perceber os "influenciadores" de Engenharia e tecnologia, é possível perceber que pouquíssimos vestem os dois chapéus. Assim como eu, há outros <strong>engenheiros programadores</strong> (ou ao menos entusiastas nesse nicho) que gostam da ideia de um local em que a tecnologia voltada a Engenharia pode ser discutida de uma forma intermediária entre (i) <i>a abordagem superficial</i> - de "iniciante" tratada por aqueles que se auto-intitulam engenheiros da área tech ou de inovação - e (ii) <i>a abordagem mais "técnica" e "pesada"</i> com que conteúdos de tecnologia são apresentados a desenvolvedores.
@@ -68,7 +68,7 @@ Ao perceber os "influenciadores" de Engenharia e tecnologia, é possível perceb
 Eu busco construir soluções estratégicas por e para engenheiro, que possam potencialmente impactar a forma com que trabalhamos. E me divertir no processo. 😁
 <br />
 <br />
-<i>Ei, você é um engenheiro interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um hey? Envie uma mensagem para <a href="mailto:me@jonypeixoto.com">info@jonypeixoto.com</a></i> 😉
+<i>Ei, você é um engenheiro interessado em programação, quer colaborar em projetos inovadores ou apenas quer mandar um hey? Envie uma mensagem para <a href="mailto:info@cybertimeup.com">info@jonypeixoto.com.br</a></i> 😉
 <br /><br />
 <hr />
 <h3>💻 Atividade atual</h3>
@@ -84,17 +84,17 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
         👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-中文版%20-red" />
    </summary>
 <br />
-<a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<a href="https://jonypeixoto.com.br"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
 全棧程序員、工程師和創業者。我喜歡編碼，創造新的創造力並感受訓練的腎上腺素。暫時單身:)
 <br /><br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com.br"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/JonyPeixotoReal"><img title="Twitter" src="https://img.shields.io/badge/@JonyPeixotoReal-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonypeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonypeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@cybertimeup.com"><img title="Email" src="https://img.shields.io/badge/info@cybertimeup.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
 當注意到工程和技術的“影響者”時，可能會發現很少有人同時戴這頂帽子。像我一樣，還有其他<strong>編程工程師</strong>（或者至少是這個領域的愛好者）喜歡在一個地方可以在（i）<i>之間以中間方式討論工程技術的想法膚淺的方法</i> - 自稱為技術或創新工程師的人對待“初學者”的方法 - 以及 (ii) <i>更“技術”和“重”的方法</i> 技術內容是什麼呈現給開發者。
@@ -103,7 +103,7 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
 我希望為工程師構建戰略解決方案，這些解決方案可能會影響我們的工作方式。並在這個過程中玩得開心。 😁
 <br />
 <br />
-<i>嘿，您是對編程感興趣的工程師，想要在創新項目上合作還是只想發送一個嘿嘿？發送消息到 <a href="mailto:me@jonypeixoto.com">me@jonypeixoto.com</a></i> 😉
+<i>嘿，您是對編程感興趣的工程師，想要在創新項目上合作還是只想發送一個嘿嘿？發送消息到 <a href="mailto:info@cybertimeup.com">info@cybertimeup.com</a></i> 😉
 <br /><br />
 <hr />
 <h3>💻 當前活動</h3>
@@ -119,17 +119,17 @@ Eu busco construir soluções estratégicas por e para engenheiro, que possam po
         👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Versión%20en%20Español-yellow" />
    </summary>
 <br />
-<a href="https://jonypeixoto.com"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<a href="https://jonypeixoto.com.br"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
 Programador Full-Stack, Ingeniero y Startuper. Me gusta programar, crear nuevos ingenios y sentir la adrenalina del entrenamiento. Soltero por ahora :)
 <br /> <br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com.br"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/JonyPeixotoReal"><img title="Twitter" src="https://img.shields.io/badge/@JonyPeixotoReal-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonypeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonypeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@cybertimeup.com"><img title="Email" src="https://img.shields.io/badge/info@cybertimeup.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <h />
 Al notar los "influencers" de la Ingeniería y la tecnología, es posible ver que muy pocos usan ambos sombreros. Como yo, hay otros <strong> ingenieros de programación </strong> (o al menos entusiastas de este nicho) a los que les gusta la idea de un lugar donde se pueda discutir la tecnología de la ingeniería de forma intermedia entre (i) <i> el enfoque superficial </i> - del "principiante" tratado por aquellos que se llaman a sí mismos ingenieros tecnológicos o de innovación - y (ii) <i> el enfoque más "técnico" y "pesado" </i> con el contenido tecnológico presentado a los desarrolladores.
@@ -138,7 +138,7 @@ Al notar los "influencers" de la Ingeniería y la tecnología, es posible ver qu
 Busco construir soluciones estratégicas por y para ingenieros que puedan tener un impacto potencial en la forma en que trabajamos. Y diviértete en el proceso. 😁
 <br />
 <br />
-<i> Oye, ¿eres un ingeniero interesado en la programación, quieres colaborar en proyectos innovadores o simplemente quieres enviar un ey? Envíe un mensaje a <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<i> Oye, ¿eres un ingeniero interesado en la programación, quieres colaborar en proyectos innovadores o simplemente quieres enviar un ey? Envíe un mensaje a <a href="mailto:info@cybertimeup.com"> info@cybertimeup.com </a> </i> 😉
 <br /> <br />
 <h />
 <h3> 💻 Actividad actual </h3>
@@ -154,17 +154,17 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Русская%20версия-white" />
    </summary>
 <br />
-<a href="https://jonypeixoto.com"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<a href="https://jonypeixoto.com.br"><img title="Oye, mira mi sitio 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
 Программист полного стека, Ingeniero и Startuper. Мне нравится программировать, создавать что-то новое и чувствовать адреналин от тренировок. Развязываю к тому времени :)
 <br /> <br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com.br"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/JonyPeixotoReal"><img title="Twitter" src="https://img.shields.io/badge/@JonyPeixotoReal-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonypeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonypeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@cybertimeup.com"><img title="Email" src="https://img.shields.io/badge/info@cybertimeup.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 Заметив «влиятельных лиц» инженерии и технологий, можно увидеть, что очень немногие носят обе шляпы. Как и я, есть и другие <strong> инженеры-программисты </strong> (или, по крайней мере, энтузиасты в этой нише), которым нравится идея места, где инженерные технологии можно обсуждать как промежуточное звено между (i) <i> поверхностный подход </i> - к "новичку" относятся те, кто называет себя техническими инженерами или инженерами-новаторами - и (ii) <i> более "технический" и "тяжелый" подход </i> к тому, что представляет собой технологический контент представлен разработчикам.
 <br />
@@ -172,7 +172,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 Я ищу возможность найти стратегические решения инженерами и для них, которые потенциально могут повлиять на нашу работу. И получайте удовольствие от процесса. 😁
 <br />
 <br />
-<i> Эй, вы инженер, интересующийся программированием, хотите сотрудничать над инновационными проектами или просто хотите послать привет? Отправьте сообщение на адрес <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<i> Эй, вы инженер, интересующийся программированием, хотите сотрудничать над инновационными проектами или просто хотите послать привет? Отправьте сообщение на адрес <a href="mailto:info@cybertimeup.com"> info@cybertimeup.com </a> </i> 😉
 <br /> <br />
 <h3> 💻 Текущая активность </h3>
 ☑️ Стремление к расширению бизнеса для <a href="http://cybertimeup.com.br" target="_blank"> CybertimeUP </a> <br />
@@ -187,17 +187,17 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 	👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-النسخة%20العربية%20-black" />
    </summary>
 <br />
-<a href="https://jonypeixoto.com"><img title="مرحبًا ، تحقق من الموقع الخاص بي 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+<a href="https://jonypeixoto.com.br"><img title="مرحبًا ، تحقق من الموقع الخاص بي 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
 <br />
 مبرمج ومهندس وبدء تشغيل. أحب أن أكتب ، وأنشئ إبداعات جديدة وأشعر بأدرينالين التدريب. واحد الآن :)
 <br /><br />
 <a href="https://www.reddit.com/user/jonypeixoto"><img title="Reddit" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=reddit&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCSFnwMHTzE-hGj7cQ6BCoFg"><img title="YouTube" src="https://img.shields.io/badge/jonypeixoto-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/jonypeixoto/"><img title="Instagram" src="https://img.shields.io/badge/jonypeixoto-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.jonypeixoto.com"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
-<a href="https://twitter.com/OJonyPeixoto"><img title="Twitter" src="https://img.shields.io/badge/@OJonyPeixoto-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jonathanpeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonathanpeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:me@jonypeixoto.com"><img title="Email" src="https://img.shields.io/badge/me@jonypeixoto.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://blog.jonypeixoto.com.br"><img title="Blog" src="https://img.shields.io/badge/jonypeixoto-FF5722?style=flat&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/JonyPeixotoReal"><img title="Twitter" src="https://img.shields.io/badge/@JonyPeixotoReal-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonypeixoto"><img title="LinkedIn" src="https://img.shields.io/badge/jonypeixoto-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@cybertimeup.com"><img title="Email" src="https://img.shields.io/badge/info@cybertimeup.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <br />
 <hr />
 عند ملاحظة "المؤثرين" في الهندسة والتكنولوجيا ، من الممكن أن ترى أن عددًا قليلاً جدًا من الأشخاص يرتدون القبعتين. مثلي ، هناك <strong> مهندسو برمجة </ strong> (أو على الأقل متحمسون في هذا المجال المتخصص) ممن يحبون فكرة مكان يمكن فيه مناقشة التكنولوجيا الهندسية بطريقة وسيطة بين (i) <i> النهج السطحي </ i> - "للمبتدئين" الذي يعامله أولئك الذين يسمون أنفسهم بمهندسي التكنولوجيا أو الابتكار - و (2) <i> النهج الأكثر "تقنيًا" و "ثقيلًا" </ i> مع محتوى التكنولوجيا قدم للمطورين.
@@ -206,7 +206,7 @@ Busco construir soluciones estratégicas por y para ingenieros que puedan tener 
 إنني أتطلع إلى بناء حلول إستراتيجية للمهندسين ومن أجلهم والتي يمكن أن تؤثر على طريقة عملنا. واستمتع بهذه العملية. 😁
 <br />
 <br />
-<i> مرحبًا ، هل أنت مهندس مهتم بالبرمجة ، تريد التعاون في مشاريع مبتكرة أو تريد فقط إرسال مرحباً؟ أرسل رسالة إلى <a href="mailto:me@jonypeixoto.com"> me@jonypeixoto.com </a> </i> 😉
+<i> مرحبًا ، هل أنت مهندس مهتم بالبرمجة ، تريد التعاون في مشاريع مبتكرة أو تريد فقط إرسال مرحباً؟ أرسل رسالة إلى <a href="mailto:info@cybertimeup.com"> info@cybertimeup.com </a> </i> 😉
 <br /> <br />
 <hr />
 <h3> 💻 النشاط الحالي </ h3>
@@ -265,9 +265,9 @@ ________________________________________________________________
 🚀 [CybertimeUP](https://www.cybertimeup.com) - Founder/CEO, </br>
 [Experience Media](https://www.experiencemedia.io) & [Experience Videos](https://www.experiencevideos.io) - Co-Founder;
 
- ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com/youtube) :wink:;
+ ❤️ I Love To [Help People On Digital Performance](https://www.jonypeixoto.com.br/youtube) :wink:;
 
- 🌱 I'm An [Eternal Programming Student](https://www.jonypeixoto.com); 
+ 🌱 I'm An [Eternal Programming Student](https://www.jonypeixoto.com.br); 
 
  🏆 My Favorite Challenge Is Decode the Kingdom From Eternal Codes.
   
@@ -326,7 +326,7 @@ _______________________________________________________________
   <code><img alt="Origin" height="32" src="https://img.shields.io/badge/Origin-FFFFFF?style=for-the-badge&logo=origin" /></code>
 </a>
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Google Play" height="30" width="130" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></code>
 </a>
 
@@ -374,11 +374,11 @@ _______________________________________________________________
   <code><img alt="Piskel" height="32" src="https://www.svsh.dk/wp-content/uploads/2017/11/Piskel-logo.png" /></code>
 </a>
 
-<a href="https://jonypeixoto.com" target="_blank">
+<a href="https://jonypeixoto.com.br" target="_blank">
   <code><img alt="Marketing for Games" height="32" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/marketing-for-games.png" /></code>
 </a>
 
-<a href="https://jonypeixoto.com" target="_blank">
+<a href="https://jonypeixoto.com.br" target="_blank">
   <code><img alt="Audio for Games" height="32" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/audio-for-games.png" /></code>
 </a>
 	
@@ -439,7 +439,7 @@ ________________________________________________________________________________
 <a href="https://w3schools.com/css">
   <code><img alt="CSS" height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></code>
 </a>
-<a href="https://jonypeixoto.com">
+<a href="https://jonypeixoto.com.br">
   <code><img alt="JavaScript" height="30" width="120" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 </a>
 <a href="https://jquery.com">
@@ -466,13 +466,13 @@ ________________________________________________________________________________
 <a href="https://reactjs.org">
   <code><img alt="ReactJS" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="React Native" height="30" width="130" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="JQuery" height="30" width="100" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="NodeJS" height="30" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></code>
 </a>
 <a href="https://angular.io">
@@ -519,7 +519,7 @@ ________________________________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Database, Server, Domain and Hosting:
 
-<a href="https://jonypeixoto.com">
+<a href="https://jonypeixoto.com.br">
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" alt="FileZilla"/></code>
 </a>
 <code><img height="32" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp"/></code>
@@ -624,19 +624,19 @@ ________________________________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Operational Systems:
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Mac OS" height="30" width="100" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Windows" height="30" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Kali Linux" height="30" width="120" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Tails" height="30" width="100" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)" /></code>
 </a>
 
@@ -644,10 +644,10 @@ ________________________________________________________________________________
 	
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Mobile Apps Licensed By:
 
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="App Store" height="30" width="120" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></code>
 </a>
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="Google Play" height="30" width="130" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></code>
 </a>
 	
@@ -693,12 +693,12 @@ _______________________________________________________________
 	
 <br/>
   
-### <a href="https://jonypeixoto.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
+### <a href="https://jonypeixoto.com.br"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.jonypeixoto.com.br "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
     
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com">
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.jonypeixoto.com.br">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
   
@@ -774,7 +774,7 @@ _______________________________________________________________
   <code><img alt="My Tiktok" height="30" width="110" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></code>
 </a> 
   
-<a href="https://www.linkedin.com/in/jonathanpeixoto">
+<a href="https://www.linkedin.com/in/jonypeixoto">
   <code><img alt="My LinkedIn" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
   
@@ -808,7 +808,7 @@ _______________________________________________________________
 	
 <br/><br/>
 
-<a href="https://www.twitter.com/peixotojony">
+<a href="https://www.twitter.com/JonyPeixotoReal">
   <code><img alt="My Twitter" height="30" width="110" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></code>
 </a> 
 
@@ -822,13 +822,13 @@ _______________________________________________________________
 	
 <br/><br/>
 	
-<a href="https://www.jonypeixoto.com">
+<a href="https://www.jonypeixoto.com.br">
   <code><img alt="My Spotify" height="30" width="110" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
 </a>
 
 <br/><br/>
 	
-<a href="https://jonypeixoto.com/twitter">
+<a href="https://jonypeixoto.com.br/twitter">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=vlfntxg16c6vmvicviub6scvf" />
 </a>
 
@@ -848,7 +848,7 @@ _______________________________________________________________
   
 <br/><br/>
 	
-## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://blog.jonypeixoto.com" target="_blank">
+## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://blog.jonypeixoto.com.br" target="_blank">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
