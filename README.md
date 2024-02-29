@@ -18,7 +18,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 # Here, you'll find 100+ projects in web 2 & web 3 organized by category(front-end, back-end, full-stack, wordpres, apps, gaming, hacking, superapps and no-code)!
 
-<img align="right" width="70%" src="https://camo.githubusercontent.com/dda0e095fd183a82a3a0234d79b259a4310fcf031f2238cf415ee306ae6a1606/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33354d47364b6f4e43337a79416b476573302f67697068792e676966" alt="Joke" />
+<img align="right" width="70%" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/header2-github.gif" alt="Header2-GitHub" />
 
 ### Welcome... <br/> <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="20"> Jony's World!
 <p>
