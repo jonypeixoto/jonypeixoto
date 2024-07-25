@@ -16,7 +16,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
   
 </div>
 
-# Here, you'll find 100+ projects in web 2 & web 3 organized by category(front-end, back-end, full-stack, wordpres, apps, gaming, hacking, superapps and no-code)!
+# Here, you'll find 200+ projects in web 2 & web 3 organized by category(front-end, back-end, full-stack, wordpres, apps, gaming, hacking, superapps and no-code)!
 
 <img align="right" width="70%" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/header2-github.gif" alt="Header2-GitHub" />
 
