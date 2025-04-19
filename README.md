@@ -836,17 +836,17 @@ _______________________________________________________________
 
 <br/><br/>
 
-## 📝My Latest Posts On CybertimeUP's Blog 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
-  <code><img alt="My Blog WordPress" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
+## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://jonypeixoto.substack.com" target="_blank">
+  <code><img alt="My Posts - Substack" height="30" width="130" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></code>
 </a>
 
 <br/>
 	
-📌 [Age from SuperWeb: Prepare!](https://blog.cybertimeup.com/en/a-era-da-super-web-prepare-se/)<br />
-📌 [Super Apps Will Dominate the World](https://blog.cybertimeup.com/en/super-apps-dominara-o-mundo/)<br />
-📌 [What is the Structure of the Entire Internet Really?](https://blog.cybertimeup.com/en/como-realmente-e-a-estrutura-de-toda-a-internet/)<br />
-📌 [What are the Benefits of a SuperSite?](https://blog.cybertimeup.com/en/quais-os-beneficios-de-um-super-site/)<br />
-📌 [Forget What They Told You About Productivity! Are You Ready ?](https://blog.cybertimeup.com/en/esquece-o-que-te-falaram-de-produtividade/)
+📌 [Quantum Engineering Will Revolutionize Your Life - Eve Al Saud(Host)](https://jonypeixoto.substack.com/p/quantum-engineering-will-revolutionize)<br />
+📌 [The Web Revolution - AI Assistant: Eve Al Saud(Host on Podcast)](https://jonypeixoto.substack.com/p/the-web-revolution-ai-assistant-eve)<br />
+📌 [Como Criar uma Mente?](https://jonypeixoto.substack.com/p/como-criar-uma-mente)<br />
+📌 [Qual é a relação entre engenharia quântica, games e o seu dia a dia?](https://jonypeixoto.substack.com/p/qual-e-a-relacao-entre-engenharia)<br />
+📌 [Você é uma Máquina Quântica](https://jonypeixoto.substack.com/p/voce-e-uma-maquina-quantica)
   
 <br/><br/>
 	
