@@ -850,7 +850,7 @@ _______________________________________________________________
   
 <br/><br/>
 	
-## 📝My Latest Posts On Jony Peixoto's Blog 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
+## 📝My Latest Activities And Posts On Jony Peixoto's 🆙 <a href="https://blog.cybertimeup.com" target="_blank">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
