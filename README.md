@@ -854,6 +854,16 @@ _______________________________________________________________
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonypeixoto/jonypeixoto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonypeixoto/jonypeixoto/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jonypeixoto/jonypeixoto/output/github-snake.svg" />
+</picture>
+
+<br/>
+
  <br/>
 
  ## <img src=https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Earth.gif width="30">    Total Profile Views: <br>
