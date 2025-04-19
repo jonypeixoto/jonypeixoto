@@ -698,7 +698,7 @@ _______________________________________________________________
 ### <a href="https://cybertimeup.com"><img title="Hey, Check Out my Site 🙃" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/header.svg"/></a>
   
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
-[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.cybertimeup.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.experiencemedia.io)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.experiencevideos.io)
+[![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.cybertimeup.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.behance.net/experiencemedia)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.instagram.com/experiencevideosofficial)
     
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.cybertimeup.com">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
@@ -897,7 +897,7 @@ I created these images, feel free to use them.
 
 <p align="center">
 
-  <a href="https://www.patreon.com/jonypeixoto" target="_blank">
+  <a href="https://www.patreon.com/c/jonypeixotooriginal" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/donate?business=8UUJRLGCERE2S&no_recurring=0&currency_code=BRL" target="_blank">
