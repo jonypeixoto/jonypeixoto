@@ -881,9 +881,6 @@ I created these images, feel free to use them.
  <a href="#" target="_blank">
       <img width="16.5%" alt="Bitcoin" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Bitcoin.svg"/>
   </a>
-  <a href="#" target="_blank">
-      <img width="18%" alt="Ethereum" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Ethereum.svg"/>
-  </a>
 
 <br/></br>
 
