@@ -700,7 +700,9 @@ _______________________________________________________________
 ### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Meet our Projects:
 [![CybertimeUP - Xaas - Everything As a Service](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/JP_Jony_Peixoto_banner.png)](http://www.cybertimeup.com "(target | _blank)")   [![CybertimeUP](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/CybertimeUP_banner.png)](https://www.cybertimeup.com) [![Experience Media](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/experience_media_banner.png)](https://www.behance.net/experiencemedia)  [![Experience Videos](https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Experience_Videos_banner.png)](https://www.instagram.com/experiencevideosofficial)
     
-### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: <a href="https://www.cybertimeup.com">
+### <img src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/Rocket.gif" width=30 height=30 /> Our Site: 
+
+<a href="https://www.cybertimeup.com">
   <code><img alt="My Website" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
   
@@ -804,8 +806,8 @@ _______________________________________________________________
   <code><img alt="My DEV.TO" height="30" width="100" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"/></code>
 </a>
 
-<a href="https://g.page/cybertimeup?gm">
-  <code><img alt="My Google Meu Negócio" width="28" src="https://seeklogo.com/images/G/google-my-bussines-logo-554E98BE88-seeklogo.com.png" /></code>
+<a href="https://g.co/kgs/oBFMHpi">
+  <code><img alt="Google My Business" width="28" src="https://e7.pngegg.com/pngimages/829/885/png-clipart-google-my-business-google-search-logo-google-purple-blue-thumbnail.png"/></code>
 </a> 
 	
 <br/><br/>
