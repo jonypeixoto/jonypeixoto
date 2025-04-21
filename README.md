@@ -675,7 +675,7 @@ Just search the search engines (Google, Bing etc) as follows, using the words: "
 
 🤘 Hey, my name is... Jony! Jony here!
 
-Check it out on this link, 👉 [134% FREE](https://rebrand.ly/FREE-GIFT-PRESENTE-GRATIS)
+Check it out on this link, 👉 [134% FREE](https://jonypeixotoreal.gumroad.com/l/RemoteOpportunityAroundTheWorld)
 
 <br/>
 
