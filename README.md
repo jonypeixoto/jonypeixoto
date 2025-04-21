@@ -291,7 +291,7 @@ _______________________________________________________________
 </a>
 
 <a href="https://gamemaker.io" target="_blank">
-  <code><img alt="GameMaker Studio" height="32" src="https://th.bing.com/th/id/OIP.yJoXT7mlt9hJAZEVRc-kRQHaCe?pid=ImgDet&w=768&h=256&rs=1" /></code>
+  <code><img alt="GameMaker Studio" height="32" src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" /></code>
 </a>
 
 <a href="https://blender.org" target="_blank">
@@ -347,7 +347,7 @@ _______________________________________________________________
 </a>
 
 <a href="https://construct.net" target="_blank">
-  <code><img alt="Construct" height="32" src="https://gamedevworks.com/wp-content/uploads/2020/11/construct-3-logo.jpg" /></code>
+  <code><img alt="Construct" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" /></code>
 </a>
 
 <a href="https://pyxeledit.com" target="_blank">
@@ -549,7 +549,7 @@ ________________________________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Responsive Design:
 
-<code><img height="32" src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="Materialize"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/materialize-icon-2048x1047-6qqm0u0r.png" alt="Materialize"/></code>
 <code><img height="32" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 
 <br/><br/>
@@ -568,11 +568,11 @@ ________________________________________________________________________________
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/seo-2265518-1898455.png" alt="SEO"/></code>
   <code><img height="32" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive Google"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFruzSMJRcWHdJSDWeiwndqINBExXqN2xsg&usqp=CAU" alt="UI/UX"/></code>
-<code><img height="32" src="https://seeklogo.com/images/F/font-awesome-logo-3010FE2434-seeklogo.com.png" alt="Font Awesome"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/644/774/png-transparent-font-awesome-computer-icons-typeface-computer-software-font-stack-miscellaneous-blue-angle.png" alt="Font Awesome"/></code>
 <code><img height="32" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" alt="Miro"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/></code>
 
 <br/> <br/>
@@ -591,9 +591,9 @@ ________________________________________________________________________________
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Business Tools:
 
-<code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/hnkpvrihomgkmr5yi09o" alt="Miro"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" alt="Miro"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/1200px-Google_Calendar_icon_%282020%29.svg.png" alt="Google Agenda"/></code>
-<code><img height="32" src="https://www.rescuetime.com/assets/marketing/rescuetime_logo-b25091684963e17937078cf0f759648704b27d4a7dd099aabb6693e60b399f31.png" alt="Rescue Time"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"/></code>
 <code><img height="32" src="https://image.winudf.com/v2/image1/YnIuY29tLm1sYWJzLm1sYWJzX2ljb25fMTU5ODc2MjI0MF8wODk/icon.png?w=170&fakeurl=1" alt="mLabs"/></code>
 
 <br/><br/>
